@@ -19,10 +19,7 @@ If you'd like to contact me, you can email ekrose at econ.berkeley.edu. You can 
 {% endif %}
 
 <div itemscope itemtype="http://schema.org/Person">
-
-  <div class="author__urls-wrapper">
-    <button class="btn btn--inverse">Follow</button>
-    <ul class="author__urls social-icons">
+   <ul class="author__urls social-icons">
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
@@ -111,6 +108,5 @@ If you'd like to contact me, you can email ekrose at econ.berkeley.edu. You can 
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
     </ul>
-  </div>
 </div>
 

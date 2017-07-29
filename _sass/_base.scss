@@ -15,11 +15,6 @@ body {
   }
 }
 
-br {
-   display: block;
-   margin: 10000px 0;
-}
-
 h1, h2, h3, h4, h5, h6 {
   margin: 2em 0 0.5em;
   line-height: 1.2;
@@ -57,7 +52,7 @@ small, .small {
 }
 
 p {
-  margin-bottom: 1em;
+  margin-bottom: 0.2em;
 }
 
 u,

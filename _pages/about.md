@@ -14,7 +14,6 @@ If you'd like to contact me, you can email ekrose at econ.berkeley.edu. You can 
 
 
 {% if page.author_profile or layout.author_profile or page.sidebar %}
-  <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
   {% if page.sidebar %}
     {% for s in page.sidebar %}
@@ -34,5 +33,4 @@ If you'd like to contact me, you can email ekrose at econ.berkeley.edu. You can 
       {% include nav_list nav=page.sidebar.nav %}
     {% endif %}
   {% endif %}
-  </div>
 {% endif %}

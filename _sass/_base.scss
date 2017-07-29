@@ -57,7 +57,7 @@ small, .small {
 }
 
 p {
-  margin-bottom: 1.3em;
+  margin-bottom: 1em;
 }
 
 u,
@@ -164,11 +164,13 @@ hr {
 ul li,
 ol li {
   margin-bottom: 0.5em;
+  font-size: $type-size-6;
 }
 
 li ul,
 li ol {
-  margin-top: 0.5em;
+  margin-top: 0.25em;
+  font-size: $type-size-6;
 }
 
 /*

@@ -18,6 +18,7 @@ If you'd like to contact me, you can email ekrose at econ.berkeley.edu. You can 
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
+<p></p>
 <div itemscope itemtype="http://schema.org/Person">
    <ul>
       {% if author.location %}

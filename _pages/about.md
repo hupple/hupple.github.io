@@ -20,7 +20,7 @@ If you'd like to contact me, you can email ekrose at econ.berkeley.edu. You can 
 
 <p><br></p>
 <div itemscope itemtype="http://schema.org/Person">
-<button class="btn">Follow</button>
+<button class="btn btn--inverse">Follow</button>
    <ul class="author__urls social-icons">
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>

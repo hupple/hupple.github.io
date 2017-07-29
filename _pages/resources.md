@@ -9,7 +9,7 @@ redirect_from:
 
 ## Geography Tools
 
-**1950 State Economic Areas (SEAs) to 1990 Commuting Zones (CZs) crosswal.**  
+**1950 State Economic Areas (SEAs) to 1990 Commuting Zones (CZs) crosswalk.**  
 Stata file available [here](/files/cz_sea_cw_ekr.dta).
 - This crosswalk is designed to match the State Economic Area codes available in IPUMs census extracts for 1940 and 1950. It was constructed in the same way as crosswalks between other geographic concepts and 1990 commuting zones available from David Dorn's website.
 - Each SEA's constituent counties were matched to their 1990 CZs. When an SEA contains counties that match to multiple CZs, the SEA is assigned to both commuting zones with weights proportional to its population overlap with each CZ. For example, if an SEA contains two counties with equal populations, each of which map into different CZs, the SEA will match to both CZs with weights equal to 0.5.

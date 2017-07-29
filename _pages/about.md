@@ -12,3 +12,4 @@ I am an Economics Ph.D. student at the University of California, Berkeley. My in
 
 If you'd like to contact me, you can email ekrose at econ.berkeley.edu. You can find a recent version of my CV [here](/files/ekr_cv_06-06-17.pdf).
 
+(/images/profile.png)

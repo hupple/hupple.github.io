@@ -10,7 +10,7 @@ redirect_from:
 
 ## Working Papers
 
-#### Job Loss, Earnings, and Crime: Evidence from Administrative Data  
+**Job Loss, Earnings, and Crime: Evidence from Administrative Data**
 *Draft available soon*
 <details>
  <summary>Abstract </summary>
@@ -18,7 +18,7 @@ I study the connection between employment, earnings, and crime for a large sampl
 </details>
 
 
-#### [The Rise and Fall of Female Labor Force Participation During World War II](/files/ekr_flfp_wwii.pdf)  
+[**The Rise and Fall of Female Labor Force Participation During World War II**](/files/ekr_flfp_wwii.pdf)  
 *Submitted*
 <details>
  <summary>Abstract </summary>

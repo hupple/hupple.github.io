@@ -19,7 +19,7 @@ If you'd like to contact me, you can email ekrose at econ.berkeley.edu. You can 
 {% endif %}
 
 <div itemscope itemtype="http://schema.org/Person">
-   <ul class="author__urls social-icons">
+   <ul>
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}

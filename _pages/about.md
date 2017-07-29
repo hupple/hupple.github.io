@@ -13,6 +13,7 @@ redirect_from:
 If you'd like to contact me, you can email ekrose at econ.berkeley.edu. You can find a recent version of my CV [here](/files/ekr_cv_06-06-17.pdf).
 
 {% if page.author_profile or layout.author_profile or page.sidebar %}
+  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
   {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}
@@ -27,7 +28,8 @@ If you'd like to contact me, you can email ekrose at econ.berkeley.edu. You can 
       {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
     {% endfor %}
+    {% if page.sidebar.nav %}
+      {% include nav_list nav=page.sidebar.nav %}
+    {% endif %}
   {% endif %}
 {% endif %}
-
-

@@ -24,5 +24,6 @@ Stata file available [here](/files/cz_puma1960_cw_direct.dta).
 
 
 ## Miscellanea
+ 
 - [What's the best way to sort exams and problem sets?](https://stackoverflow.com/questions/9741231/best-algorithm-to-sort-exams/35517412#35517412?newreg=3872a97fce9f4b90aaa7896bd0d670ab)
 - [When should I go to the gym?](/files/when_should_I_go_to_the_gym.pdf)

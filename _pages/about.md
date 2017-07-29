@@ -12,8 +12,6 @@ redirect_from:
 
 If you'd like to contact me, you can email ekrose at econ.berkeley.edu. You can find a recent version of my CV [here](/files/ekr_cv_06-06-17.pdf).
 
-<br></br>
-
 <ul class="author__urls social-icons">
   {% if author.location %}
     <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>

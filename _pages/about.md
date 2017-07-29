@@ -13,3 +13,26 @@ redirect_from:
 If you'd like to contact me, you can email ekrose at econ.berkeley.edu. You can find a recent version of my CV [here](/files/ekr_cv_06-06-17.pdf).
 
 
+{% if page.author_profile or layout.author_profile or page.sidebar %}
+  <div class="sidebar sticky">
+  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
+  {% if page.sidebar %}
+    {% for s in page.sidebar %}
+      {% if s.image %}
+        <img src=
+        {% if s.image contains "://" %}
+          "{{ s.image }}"
+        {% else %}
+          "{{ s.image | prepend: "/images/" | prepend: base_path }}"
+        {% endif %}
+        alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
+      {% endif %}
+      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
+      {% if s.text %}{{ s.text | markdownify }}{% endif %}
+    {% endfor %}
+    {% if page.sidebar.nav %}
+      {% include nav_list nav=page.sidebar.nav %}
+    {% endif %}
+  {% endif %}
+  </div>
+{% endif %}

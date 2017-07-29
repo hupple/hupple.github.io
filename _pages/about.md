@@ -12,7 +12,7 @@ redirect_from:
 
 If you'd like to contact me, you can email ekrose at econ.berkeley.edu. You can find a recent version of my CV [here](/files/ekr_cv_06-06-17.pdf).
 
-<div>
+<br><div>
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
   {% if page.sidebar %}

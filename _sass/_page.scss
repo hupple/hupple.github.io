@@ -49,6 +49,10 @@
 }
 
 .page__content {
+   
+  h1 {
+    margin-bottom: 1em;
+  }   
 
   h2 {
     padding-bottom: 0.5em;
@@ -90,7 +94,7 @@
 
   dl {
      margin-top: -1.5em;
-     margin-bottom: 1em;
+     margin-bottom: 2em;
   }
    
   dt {

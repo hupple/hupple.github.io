@@ -20,6 +20,6 @@ Submitted
 
 ## Published Work
 
-**The Rise and Fall of Female Labor Force Participation During World War II**  
+**The Rise and Fall of Female Labor Force Participation During World War II in the United States**  
 *The Journal of Economic History*, forthcoming
 <dl><dd>I use new data on employment and job placements during WWII to characterize the wartime surge in female work and its subsequent impact on female employment in the United States. The geography of female wartime work was primarily driven by industrial mobilization, not drafted men’s withdrawal from local labor markets. After the war, returning veterans and sharp cutbacks in war-related industries displaced many new female entrants, despite interest in continued work. As a result, areas most exposed to wartime work show limited overall effects on female labor force participation in 1950 and only marginal increases in durables manufacturing employment.</dd></dl>

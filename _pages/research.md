@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Working Papers
+## Works in progress
 
 [**Job Loss, Earnings, and Crime: Evidence from Administrative Data**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2991317)  
 Submitted
@@ -19,7 +19,7 @@ Submitted; [*Online appendix*](/files/btb_online_appendix_0418.pdf)
 <dl><dd>I evaluate a 2013 “ban the box” (BTB) ordinance passed in Seattle, WA, that bars employers from asking prospective hires about their criminal records until after an initial screening. I first use a statistical discrimination model to show that although BTB must have opposite effects on individuals with and without records, employment effects on demographic groups with high record shares are ambiguous. I then test whether Seattle’s law affected individuals with records using administrative earnings data for 300,000 ex-offenders. I find that BTB had no impact on ex-offenders’ employment or wages, regardless of their race, across multiple difference-in-differences specifications.</dd></dl>
 
 
-## Published Work
+## Published work
 
 [**The Rise and Fall of Female Labor Force Participation During World War II in the United States**](/files/rise_and_fall.pdf)  
 *The Journal of Economic History*, forthcoming; [*Online appendix*](/files/rise_and_fall_online_appendix.pdf)

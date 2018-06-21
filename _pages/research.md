@@ -10,7 +10,7 @@ redirect_from:
 
 ## Works in progress
 
-[**Job Loss, Earnings, and Crime: Evidence from Administrative Data**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2991317)  
+[**Job Loss, Earnings, and Crime: Evidence from Administrative Data**](/files/jobloss_crime_ekr_vf.pdf)  
 Submitted
 <dl><dd>I use administrative records on criminal activity linked to unemployment insurance wage data to study earnings, job loss, and crime. Focusing on ex-offenders, I find arrest risk increases 40% immediately after job loss in a mass layoff, with effects concentrated in property crimes and domestic violence. Panel regressions estimated using coworkers’ earnings and employment as instruments yield similar results and a quarterly offending-income elasticity of -0.1. Analysis of seasonal patterns in crime and regression kink estimates of offending rates around maximum unemployment insurance benefit thresholds confirm that income losses are an important mechanism, consistent with Becker/Ehrlich rational models.</dd></dl>
 

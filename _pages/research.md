@@ -10,6 +10,12 @@ redirect_from:
 
 ## Works in progress
 
+**Does Incarceration Increase Crime?** with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)    
+Working paper coming soon
+<dl><dd>This paper studies the causal effect of incarceration on reoffending using discontinuities in state sentencing guidelines and two decades of administrative records from North Carolina. A regression discontinuity analysis shows that one year of incarceration reduces the likelihood of committing a new violent crime within three years after conviction by 37%. Incarceration sentences temporarily incapacitate offenders by removing them from society but can also influence post-release criminal behavior. To parse these two effects, we develop an econometric model of sentencing length and recidivism. Our model allows for Roy-style selection into sentencing on the basis of latent criminality. We propose a two-step control function estimator of the model parameters and show that our estimates accurately reproduce the reduced form effects of the sentencing discontinuities we study. Our parameter estimates indicate that incarceration has modest crime-reducing behavioral effects that are diminishing in incarceration length. A cost-benefit analysis suggests, however, that the benefit of reducing crime by lengthening sentences (through both incapacitation and behavioral channels) is outweighed by the large fiscal costs of incarceration.</dd></dl>
+
+
+
 [**The Effects of Job Loss on Crime: Evidence from Administrative Data**](/files/jobloss_crime_ekr_vf.pdf)  
 Submitted
 <dl><dd>This paper investigates the effects of job loss on recidivism using a novel merge of employer-employee wage data to administrative records on crime. I first use firm-level employment shocks to study the reduced form impact of job loss on offending. I then use a kink in unemployment insurance benefits to distinguish economic incentives from other factors, such as incapacitation through time spent at work, as a mechanism. I find that property crimes and domestic violence rise sharply after a layoff and remain elevated for up to two years. Economic incentives are an important mechanism, consistent with Becker-Ehrlich models.</dd></dl>

@@ -18,7 +18,7 @@ Stata file available [here](/files/cz_sea_cw_ekr.dta).
 **1960 Public Use Microdata Areas (PUMAs) to 1990 Commuting Zones (CZs) crosswalk.**  
 Stata file available [here](/files/cz_puma1960_cw_direct.dta).  
 - This crosswalk is designed to match the PUMAs constructed for the 1960 5% sample available from IPUMs.
-- The 1960 PUMAs comprise counties and 1960 census tracts. They were constructed to align as closely as possible to the 2000 PUMAs. Each 2000 PUMA maps into a single 1960 PUMA. While many 1960 PUMAs consist of a single 2000 PUMA, some consists of two or more. More information is available here.
+- The 1960 PUMAs comprise counties and 1960 census tracts. They were constructed to align as closely as possible to the 2000 PUMAs. Each 2000 PUMA maps into a single 1960 PUMA. While many 1960 PUMAs consist of a single 2000 PUMA, some consists of two or more. More information is available on the IPUMs webseite.
 - To construct this crosswalk, the relationships between 1960 PUMAs and their county / census tracts components was combined with information on the counties included in each CZ. Each 1960 PUMA's constituent counties or census tracts were matched to their 1990 CZs. As above, when a 1960 PUMA contains counties or census tracts that map to multiple CZs, the 1960 PUMA is assigned to all matching CZs with weights proportional to its population overlap in each.
 - Population counts for 1960 counties and census tracts are preliminary and may be subject to minor revisions as IPUMS / NHGIS update the data.
 

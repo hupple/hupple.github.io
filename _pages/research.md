@@ -21,7 +21,7 @@ Revision in progress
 <dl><dd>This paper investigates the effects of job loss on recidivism using a novel merge of employer-employee wage data to administrative records on crime. I first use firm-level employment shocks to study the reduced form impact of job loss on offending. I then use a kink in unemployment insurance benefits to distinguish economic incentives from other factors, such as incapacitation through time spent at work, as a mechanism. I find that property crimes and domestic violence rise sharply after a layoff and remain elevated for up to two years. Economic incentives are an important mechanism, consistent with Becker-Ehrlich models.</dd></dl>
 
 [**Does Banning the Box Help Ex-Offenders Get Jobs? Evaluating the Effects of a Prominent Example**](/files/btb_seattle_0418.pdf)  
-Revise and Resubmit, *Journal of Labor Economics*; [*Online appendix*](/files/btb_online_appendix_0418.pdf)
+Revise and resubmit, *Journal of Labor Economics*; [*Online appendix*](/files/btb_online_appendix_0418.pdf)
 <dl><dd>This paper uses merged administrative employment and conviction data to evaluate laws that restrict employers' information about job seekers' criminal records. I first show that records are barriers to employment: earnings decline 30% after a first conviction due to both less work overall and shifts to lower paying industries. However, I find that a 2013 Seattle law barring employers from examining job applicants' criminal records until after an initial screening had no impact on ex-offenders' employment or wages regardless of race. The results are consistent with ex-offenders applying only to jobs where a clean record is not a relevant qualification.</dd></dl>
 
 ## Published work

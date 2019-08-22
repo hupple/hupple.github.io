@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/images/profile.png" width="275"> I am an Economics Ph.D. candidate at the University of California, Berkeley. My interests are Public and Labor Economics. Prior to coming to Berkeley, I worked in New York City, where I moved after graduating from the University of North Carolina at Chapel Hill.
+<img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/images/profile.png" width="275"> I am an Economics Ph.D. candidate at the University of California, Berkeley. My interests are Labor Economics, Public Economics, and Program Evaluation. Prior to coming to Berkeley, I worked in New York City, where I moved after graduating from the University of North Carolina at Chapel Hill.
 
-If you'd like to contact me, you can email ekrose at econ.berkeley.edu. You can find a recent version of my CV [here](/files/ekr_cv_01-02-18_nc.pdf).
+I am on the Economics job market this year. I will be available for interviews at the 2020 ASSA Meetings in San Diego. 
+
+If you'd like to contact me, you can email ekrose at berkeley.edu. You can find a current version of my CV [here](/files/ekr_cv_08-23-19_jmp_nc.pdf).

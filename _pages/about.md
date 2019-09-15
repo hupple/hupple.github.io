@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-<img class="img-responsive" style="float: left; margin: 0px 20px 20px 20px;" src="/images/profile.png" width="250">I am an Economics Ph.D. candidate at the University of California, Berkeley. My interests are Labor Economics, Public Economics, and Applied Econometrics. Prior to coming to Berkeley, I worked in New York City, where I moved after graduating from the University of North Carolina at Chapel Hill.
+<img class="img-responsive" style="float: left; margin: 0px 20px 20px 20px;" src="/images/profile.png" width="300">I am an Economics Ph.D. candidate at the University of California, Berkeley. My interests are Labor Economics, Public Economics, and Applied Econometrics. Prior to coming to Berkeley, I worked in New York City, where I moved after graduating from the University of North Carolina at Chapel Hill.
 
 I am on the Economics job market this year. I will be available for interviews at the 2020 ASSA Meetings in San Diego. 
 

@@ -13,6 +13,6 @@ redirect_from:
 
 I am on the Economics job market this year. I will be available for interviews at the 2020 ASSA Meetings in San Diego. 
 
-If you'd like to contact me, you can email ekrose at berkeley.edu. You can find a current version of my CV [here](/files/ekr_cv_10_26_19_jmp.pdf). I'm on Google Scholar [here](https://scholar.google.com/citations?user=dMs-BJUAAAAJ).        
+If you'd like to contact me, you can email ekrose at berkeley.edu. You can find a current version of my CV [here](/files/ekr_cv_12-09-19_jmp_long.pdf). I'm on Google Scholar [here](https://scholar.google.com/citations?user=dMs-BJUAAAAJ).        
 
   

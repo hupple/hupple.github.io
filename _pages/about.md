@@ -28,4 +28,4 @@ I got my B.S. degree at 2008 from the [School of Mathematical Sciences][m3], [Pe
 
 My main research interest lies in the field of extremal and probabilistic combinatorics.
 
-Email me at huping9 at mail dot sysu dot edu dot cn
+Email me at huping9 at mail.sysu.edu.cn

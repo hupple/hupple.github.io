@@ -14,7 +14,6 @@ redirect_from:
 P. Hu, J. Ma, S. Norin, H. Wu
 
 
-
 ## Published and accepted work
 
 [**Minimum number of edges that occur in odd cycles**](/files/Minimum%20number%20of%20edges%20that%20occur%20in%20odd%20cycles.pdf)  

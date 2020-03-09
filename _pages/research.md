@@ -10,8 +10,9 @@ redirect_from:
 
 ## Works in progress
 
-**induced star** 
-<dl><dd>For an oridented star.</dd></dl>
+**The inducibility of oriented stars**  
+P. Hu, J. Ma, S. Norin, H. Wu
+
 
 
 ## Published and accepted work

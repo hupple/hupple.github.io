@@ -9,10 +9,21 @@ redirect_from:
 ---
 
 
-<img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/images/profile.jpg" width="320">I am an Economics Ph.D. candidate at the University of California, Berkeley. My interests are Labor Economics, Public Economics, and Applied Econometrics. Prior to coming to Berkeley, I worked in New York City, where I moved after graduating from the University of North Carolina at Chapel Hill.
+<img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/images/profile.jpg" width="320">I am Ping Hu, an Assoicate Professor at the [School of Mathematics][m1], [Sun Yat-sen University][sysu], Guangzhou, China.
 
-I am on the Economics job market this year. I will be available for interviews at the 2020 ASSA Meetings in San Diego. 
+I was a Research Fellow at the [Department of Computer Science][dcs], [University of Warwick][warwick], under the supervision of [Daniel Kráľ][dan].
+I got my Ph.D. degree at 2014 from the [Department of Mathematics][m2], [University of Illinois at Urbana-Champaign][uiuc], under the supervision of Prof. [József Balogh][jozsi].
+I got my B.S. degree at 2008 from the [School of Mathematical Sciences][m3], [Peking University][peking].
 
-If you'd like to contact me, you can email ekrose at berkeley.edu. You can find a current version of my CV [here](/files/ekr_cv_12-09-19_jmp_long.pdf). I'm on Google Scholar [here](https://scholar.google.com/citations?user=dMs-BJUAAAAJ).        
+[m1]: http://math.sysu.edu.cn/
+[m2]: https://math.illinois.edu/
+[m3]: http://www.math.pku.edu.cn/
+[sysu]: http://www.sysu.edu.cn/
+[peking]: https://www.pku.edu.cn/
+[dcs]: https://warwick.ac.uk/fac/sci/dcs/
+[warwick]: https://warwick.ac.uk/
+[jozsi]: https://faculty.math.illinois.edu/~jobal/
+[uiuc]: https://illinois.edu/
+[dan]: http://www.ucw.cz/~kral/index.html.en
 
-  
+My main research interest lies in the eld of extremal and probabilistic combinatorics.

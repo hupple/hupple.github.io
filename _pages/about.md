@@ -26,4 +26,6 @@ I got my B.S. degree at 2008 from the [School of Mathematical Sciences][m3], [Pe
 [uiuc]: https://illinois.edu/
 [dan]: http://www.ucw.cz/~kral/index.html.en
 
-My main research interest lies in the field of extremal and probabilistic combinatorics.
+My main research interest lies in the field of extremal and probabilistic combinatorics.
+
+Email me at huping9 at mail dot sysu dot edu dot cn

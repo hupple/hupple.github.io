@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pint Hu"
+title                    : "Ping Hu"
 title_separator          : "-"
 name                     : &name "Ping Hu"
 description              : &description "Research, Teaching, and Resources"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Ping Hu"
+  name             : "Ping Hu"
   avatar           : #"profile.png"
   bio              : #"Associate Professor at the Sun Yat-sen University."
   location         : "Guangzhou, China"

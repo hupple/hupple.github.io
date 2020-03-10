@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-<img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/images/profile.jpg" width="320"> I am Ping Hu, an Assoicate Professor at the [School of Mathematics][m1], [Sun Yat-sen University][sysu], Guangzhou, China.
+<img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/images/profile.jpg" width="320"> I am an Assoicate Professor at the [School of Mathematics][m1], [Sun Yat-sen University][sysu], Guangzhou, China.
 
 I was a Research Fellow at the [Department of Computer Science][dcs], [University of Warwick][warwick], under the supervision of Prof. [Daniel Kráľ][dan].  
 I got my Ph.D. degree at 2014 from the [Department of Mathematics][m2], [University of Illinois at Urbana-Champaign][uiuc], under the supervision of Prof. [József Balogh][jozsi].  

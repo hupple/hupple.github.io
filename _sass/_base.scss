@@ -1,10 +1,16 @@
 /* ==========================================================================
    BASE ELEMENTS
    ========================================================================== */
+html {
+  /* sticky footer fix */
+  position: relative;
+  min-height: 100%;
+}
 
 body {
   margin: 0;
   padding: 0;
+  padding-bottom: 9em;
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
@@ -52,7 +58,7 @@ small, .small {
 }
 
 p {
-  margin-bottom: 0.8em;
+  margin-bottom: 1.3em;
 }
 
 u,
@@ -159,13 +165,11 @@ hr {
 ul li,
 ol li {
   margin-bottom: 0.5em;
-  font-size: $type-size-6;
 }
 
 li ul,
 li ol {
-  margin-top: 0.25em;
-  font-size: $type-size-6;
+  margin-top: 0.5em;
 }
 
 /*

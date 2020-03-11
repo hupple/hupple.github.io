@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<meta name="google-site-verification" content="_7tQqiPCBgKp6Oagqm2wd58s3TxP4wd86hSCz6IEm58" />
 
 <img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/images/profile.jpg" width="320"> I am an Assoicate Professor at the [School of Mathematics][m1], [Sun Yat-sen University][sysu], Guangzhou, China.
 

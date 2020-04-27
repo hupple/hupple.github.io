@@ -13,6 +13,8 @@ redirect_from:
 Online Course Given by Prof. [Jie Ma](http://staff.ustc.edu.cn/~jiema/).
 - [**ISU Discrete Mathematics Seminar**](http://lidicky.name/dmseminar/index.html)  
   Organized by Jesse Geneson and [Bernard Lidicky](http://lidicky.name/) with talks on [YouTube](https://www.youtube.com/channel/UCo-5ZSYnV7U3gHO2X9omCdg).
+- [**Intensive lecture on graph embedding**](https://www.youtube.com/watch?v=t3vUwAOhsZ4&list=PLu06QHBZ8gatmrDKVm8g4piPRQyW8QDUZ)  
+  Online lecture given by [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home).
   
 
 ## Useful Links

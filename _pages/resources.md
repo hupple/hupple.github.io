@@ -21,6 +21,7 @@ Online Course Given by Prof. [Jie Ma](http://staff.ustc.edu.cn/~jiema/).
 
 - [Upcoming Combinatorial Conferences](https://faculty.math.illinois.edu/~west/meetlist.html) maintained by Prof. [Douglas B. West][west].
 - [The Grammar for Writing Mathematics](https://faculty.math.illinois.edu/~west/grammar.html) by Prof. [Douglas B. West][west].
-- [Erdös' Problems on Graphs](http://www.math.ucsd.edu/~erdosproblems/) from UCSD
+- [Erdös' Problems on Graphs](http://www.math.ucsd.edu/~erdosproblems/) from UCSD.
+- [Combinatorics Lectures Online](https://web.math.princeton.edu/~pds/onlinetalks/talks.html) Organizers: [Jacob Fox](https://stanford.edu/~jacobfox/) and [Paul Seymour](https://web.math.princeton.edu/~pds/).
 
 [west]: https://faculty.math.illinois.edu/~west/

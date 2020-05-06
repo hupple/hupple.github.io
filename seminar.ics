@@ -77,4 +77,21 @@ SUMMARY:Daniel Korandi (Oxford): Exact stability for Turán's theorem
 TRANSP:OPAQUE
 UID:seminar050721
 END:VEVENT
+
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20200506T053040Z
+DESCRIPTION:Warwick combinatorics seminar\nZoom Meeting ID: 830 9689 8964\nPassword: WC2020\n
+DTEND;TZID="China Standard Time":20200506T220000
+DTSTAMP:20200506T055508Z
+DTSTART;TZID="China Standard Time":20200506T210000
+LAST-MODIFIED:20200506T060140Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY:Thomas Johnston (Oxford): Lipschitz bijections between boolean functions
+TRANSP:OPAQUE
+UID:seminar050621
+END:VEVENT
+
+
 END:VCALENDAR

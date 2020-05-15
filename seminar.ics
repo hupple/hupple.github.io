@@ -18,37 +18,19 @@ END:VTIMEZONE
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200506T043040Z
-DESCRIPTION:Zoom ID: 928 186 37949\nhttps://zoom.com.cn/j/92818637949\nPassword: 061801\n
-DTEND;TZID="China Standard Time":20200514T163000
+DESCRIPTION:Zoom ID: 992 819 49055\nhttps://zoom.com.cn/j/99281949055\nPassword: 061801\n
+DTEND;TZID="China Standard Time":20200521T163000
 DTSTAMP:20200506T043508Z
-DTSTART;TZID="China Standard Time":20200514T150000
-LAST-MODIFIED:20200510T033540Z
+DTSTART;TZID="China Standard Time":20200521T150000
+LAST-MODIFIED:20200514T033540Z
 PRIORITY:5
 SEQUENCE:0
-SUMMARY:Hong Liu (Warwick): Basics on the hypergraph container method II 
+SUMMARY:Hong Liu (Warwick): Basics on the hypergraph container method III
 LOCATION:SCMS Combinatorics Seminar
 TRANSP:OPAQUE
 UID:040000008200E00074C5B7101A82E00800000000C0DC8035A223D601000000000000000
 	010000000918938BCF463F045AEC0D501882180AC
 END:VEVENT
-
-BEGIN:VEVENT
-CLASS:PUBLIC
-CREATED:20200506T053040Z
-DESCRIPTION:Zoom ID: 95755925520\nhttps://cesnet.zoom.us/s/95755925520\nPassword: 23571113\n
-DTEND;TZID="China Standard Time":20200511T220000
-DTSTAMP:20200506T053508Z
-DTSTART;TZID="China Standard Time":20200511T210000
-LAST-MODIFIED:20200506T075240Z
-PRIORITY:5
-SEQUENCE:0
-LOCATION:Extremal and Probabilistic Combinatorics Webinar
-SUMMARY:Jinyoung Park (Rutgers University): The number of maximal independent sets in the Hamming cube
-TRANSP:OPAQUE
-UID:040000008200E00074C5B7101A82E00800000000C0DC80B4P223D601000000000000000
-	010000000918938BCF4X9Q645AEC0D501882180XX
-END:VEVENT
-
 
 BEGIN:VEVENT
 CLASS:PUBLIC
@@ -80,6 +62,23 @@ LOCATION:Extremal and Probabilistic Combinatorics Webinar
 SUMMARY:Lutz Warnke (Georgia Tech): Counting extensions in random graphs
 TRANSP:OPAQUE
 UID:seminar051821
+END:VEVENT
+
+
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20200513T053040Z
+DESCRIPTION:Zoom ID: TBD\nAbstract: How long does it take for a pandemic to stop spreading? When modelling an infection process, especially these days, this is one of the main questions that comes to mind. In this talk, we consider this question in the bootstrap percolation setting.\nGraph-bootstrap percolation, also known as weak saturation, was introduced by Bollobás in 1968. In this process, we start with initial "infected" set of edges E0, and we infect new edges according to a predetermined rule. Given a graph H and a set of previously infected edges E_t ⊆ E(Kn), we infect a non-infected edge e if it completes a new copy of H in G=([n] , Et ∪ {e}). A question raised by Bollobás asks for the maximum time the process can run before it stabilizes. Bollobás, Przykucki, Riordan, and Sahasrabudhe considered this problem for the most natural case where H=Kr. They answered the question for r ≤ 4 and gave a non-trivial lower bound for every r ≥ 5. They also conjectured that the maximal running time is o(n2) for every integer r. We disprove their conjecture for every r ≥ 6 and we give a better lower bound for the case r=5; in the proof we use the Behrend construction. This is a joint work with József Balogh, Alexey Pokrovskiy, and Tibor Szabó.
+DTEND;TZID="China Standard Time":20200519T220000
+DTSTAMP:20200513T053508Z
+DTSTART;TZID="China Standard Time":20200519T210000
+LAST-MODIFIED:20200514T035240Z
+PRIORITY:5
+SEQUENCE:0
+LOCATION:Oxford Discrete Mathematics and Probability Seminar
+SUMMARY:Gal Kronenberg (Oxford): The maximum length of K_r-Bootstrap Percolation
+TRANSP:OPAQUE
+UID:seminar051921
 END:VEVENT
 
 

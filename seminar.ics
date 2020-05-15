@@ -34,11 +34,11 @@ END:VEVENT
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200512T053040Z
-DESCRIPTION:Zoom ID: 94939388793\nhttps://cesnet.zoom.us/j/94939388793\nPassword: 23571113\nAbstract: We consider rooted subgraphs in random graphs, i.e., extension counts such as (a) the number of triangles containing a given `root' vertex, or (b) the number of paths of length three connecting two given `root' vertices. \nIn 1989 Spencer gave sufficient conditions for the event that, whip, all roots of the binomial random graph G(n,p) have the same asymptotic number of extensions, i.e., (1 \pm \epsilon) times their expected number.\nFor the important strictly balanced case, Spencer also raised the fundamental question whether these conditions are necessary.\nWe answer this question by a careful second moment argument, and discuss some intriguing problems that remain open.\nJoint work with Matas Sileikis, see arXiv:1911.03012
+DESCRIPTION:Zoom ID: 94939388793\nhttps://cesnet.zoom.us/j/94939388793\nPassword: 23571113\nAbstract: We consider rooted subgraphs in random graphs, i.e., extension counts such as (a) the number of triangles containing a given `root' vertex, or (b) the number of paths of length three connecting two given `root' vertices.\nIn 1989 Spencer gave sufficient conditions for the event that, whip, all roots of the binomial random graph G(n,p) have the same asymptotic number of extensions, i.e., (1 \pm \epsilon) times their expected number.\nFor the important strictly balanced case, Spencer also raised the fundamental question whether these conditions are necessary.\nWe answer this question by a careful second moment argument, and discuss some intriguing problems that remain open.\nJoint work with Matas Sileikis, see arXiv:1911.03012
 DTEND;TZID="China Standard Time":20200518T220000
 DTSTAMP:20200512T053508Z
 DTSTART;TZID="China Standard Time":20200518T210000
-LAST-MODIFIED:20200513T035240Z
+LAST-MODIFIED:20200514T035240Z
 PRIORITY:5
 SEQUENCE:0
 LOCATION:Extremal and Probabilistic Combinatorics Webinar

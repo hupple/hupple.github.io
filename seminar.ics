@@ -51,7 +51,7 @@ END:VEVENT
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200513T053040Z
-DESCRIPTION:Zoom ID: TBD\nAbstract: How long does it take for a pandemic to stop spreading? When modelling an infection process, especially these days, this is one of the main questions that comes to mind. In this talk, we consider this question in the bootstrap percolation setting.\nGraph-bootstrap percolation, also known as weak saturation, was introduced by Bollobás in 1968. In this process, we start with initial "infected" set of edges E0, and we infect new edges according to a predetermined rule. Given a graph H and a set of previously infected edges E_t ⊆ E(Kn), we infect a non-infected edge e if it completes a new copy of H in G=([n] , Et ∪ {e}). A question raised by Bollobás asks for the maximum time the process can run before it stabilizes. Bollobás, Przykucki, Riordan, and Sahasrabudhe considered this problem for the most natural case where H=Kr. They answered the question for r ≤ 4 and gave a non-trivial lower bound for every r ≥ 5. They also conjectured that the maximal running time is o(n2) for every integer r. We disprove their conjecture for every r ≥ 6 and we give a better lower bound for the case r=5; in the proof we use the Behrend construction. This is a joint work with József Balogh, Alexey Pokrovskiy, and Tibor Szabó.
+DESCRIPTION:https://zoom.us/j/91590073870?pwd=clhyYWRuNmxjL2pvTkdqckNEOWpiQT09\nAbstract: How long does it take for a pandemic to stop spreading? When modelling an infection process, especially these days, this is one of the main questions that comes to mind. In this talk, we consider this question in the bootstrap percolation setting.\nGraph-bootstrap percolation, also known as weak saturation, was introduced by Bollobás in 1968. In this process, we start with initial "infected" set of edges E0, and we infect new edges according to a predetermined rule. Given a graph H and a set of previously infected edges E_t ⊆ E(Kn), we infect a non-infected edge e if it completes a new copy of H in G=([n] , Et ∪ {e}). A question raised by Bollobás asks for the maximum time the process can run before it stabilizes. Bollobás, Przykucki, Riordan, and Sahasrabudhe considered this problem for the most natural case where H=Kr. They answered the question for r ≤ 4 and gave a non-trivial lower bound for every r ≥ 5. They also conjectured that the maximal running time is o(n2) for every integer r. We disprove their conjecture for every r ≥ 6 and we give a better lower bound for the case r=5; in the proof we use the Behrend construction. This is a joint work with József Balogh, Alexey Pokrovskiy, and Tibor Szabó.
 DTEND;TZID="China Standard Time":20200519T220000
 DTSTAMP:20200513T053508Z
 DTSTART;TZID="China Standard Time":20200519T210000
@@ -62,6 +62,23 @@ LOCATION:Oxford Discrete Mathematics and Probability Seminar
 SUMMARY:Gal Kronenberg (Oxford): The maximum length of K_r-Bootstrap Percolation
 TRANSP:OPAQUE
 UID:seminar051921
+END:VEVENT
+
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20200513T053040Z
+DESCRIPTION:https://zoom.us/j/91590073870?pwd=clhyYWRuNmxjL2pvTkdqckNEOWpiQT09\nAbstract: Dobrushin (1972) showed that, at low enough temperatures, the interface of the 3D Ising model - the random surface separating the plus and minus phases above and below the xy-plane - is localized: it has O(1) height fluctuations above a fixed point, and its maximum height Mn on a box of side length n is OP(log n). We study this interface and derive a shape theorem for its ``pillars'' conditionally on reaching an atypically large height. We use this to analyze the maximum height Mn of the interface, and prove that at low temperature Mn/log n converges to cβ in probability. Furthermore, the sequence (Mn - E[Mn])n≥1 is tight, and even though this sequence does not converge, its subsequential limits satisfy uniform Gumbel tails bounds.
+Joint work with Reza Gheissari.
+DTEND;TZID="China Standard Time":20200519T233000
+DTSTAMP:20200513T053508Z
+DTSTART;TZID="China Standard Time":20200519T223000
+LAST-MODIFIED:20200515T035240Z
+PRIORITY:5
+SEQUENCE:0
+LOCATION:Oxford Discrete Mathematics and Probability Seminar
+SUMMARY:Eyal Lubetzky (Courant): Maximum height of 3D Ising interfaces
+TRANSP:OPAQUE
+UID:seminar05192230
 END:VEVENT
 
 

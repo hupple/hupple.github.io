@@ -66,11 +66,11 @@ END:VEVENT
 
 BEGIN:VEVENT
 CLASS:PUBLIC
-CREATED:20200513T053040Z
+CREATED:20200514T053040Z
 DESCRIPTION:https://zoom.us/j/91590073870?pwd=clhyYWRuNmxjL2pvTkdqckNEOWpiQT09\nAbstract: Dobrushin (1972) showed that, at low enough temperatures, the interface of the 3D Ising model - the random surface separating the plus and minus phases above and below the xy-plane - is localized: it has O(1) height fluctuations above a fixed point, and its maximum height Mn on a box of side length n is OP(log n). We study this interface and derive a shape theorem for its ``pillars'' conditionally on reaching an atypically large height. We use this to analyze the maximum height Mn of the interface, and prove that at low temperature Mn/log n converges to cβ in probability. Furthermore, the sequence (Mn - E[Mn])n≥1 is tight, and even though this sequence does not converge, its subsequential limits satisfy uniform Gumbel tails bounds.
 Joint work with Reza Gheissari.
 DTEND;TZID="China Standard Time":20200519T233000
-DTSTAMP:20200513T053508Z
+DTSTAMP:20200514T053508Z
 DTSTART;TZID="China Standard Time":20200519T223000
 LAST-MODIFIED:20200515T035240Z
 PRIORITY:5
@@ -80,6 +80,5 @@ SUMMARY:Eyal Lubetzky (Courant): Maximum height of 3D Ising interfaces
 TRANSP:OPAQUE
 UID:seminar05192230
 END:VEVENT
-
 
 END:VCALENDAR

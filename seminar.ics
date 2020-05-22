@@ -17,67 +17,67 @@ END:VTIMEZONE
 
 BEGIN:VEVENT
 CLASS:PUBLIC
-CREATED:20200514T043040Z
-DESCRIPTION:Zoom ID: 992 819 49055\nhttps://zoom.com.cn/j/99281949055\nPassword: 061801\n
-DTEND;TZID="China Standard Time":20200521T163000
+CREATED:20200521T043040Z
+DESCRIPTION:Zoom ID: 910 762 36124\nhttps://zoom.com.cn/j/91076236124\nPassword: 061801\n
+DTEND;TZID="China Standard Time":20200528T163000
 DTSTAMP:20200514T043508Z
-DTSTART;TZID="China Standard Time":20200521T150000
-LAST-MODIFIED:20200514T053540Z
+DTSTART;TZID="China Standard Time":20200528T150000
+LAST-MODIFIED:20200521T053540Z
 PRIORITY:5
 SEQUENCE:0
-SUMMARY:Hong Liu (Warwick): Basics on the hypergraph container method III
+SUMMARY:Hong Liu (Warwick): Basics on the hypergraph container method IV
 LOCATION:SCMS Combinatorics Seminar
 TRANSP:OPAQUE
-UID:seminar052115
+UID:seminar052815
 END:VEVENT
 
 BEGIN:VEVENT
 CLASS:PUBLIC
-CREATED:20200512T053040Z
-DESCRIPTION:Zoom ID: 94939388793\nhttps://cesnet.zoom.us/j/94939388793\nPassword: 23571113\nAbstract: We consider rooted subgraphs in random graphs, i.e., extension counts such as (a) the number of triangles containing a given `root' vertex, or (b) the number of paths of length three connecting two given `root' vertices.\nIn 1989 Spencer gave sufficient conditions for the event that, whip, all roots of the binomial random graph G(n,p) have the same asymptotic number of extensions, i.e., (1 \pm \epsilon) times their expected number.\nFor the important strictly balanced case, Spencer also raised the fundamental question whether these conditions are necessary.\nWe answer this question by a careful second moment argument, and discuss some intriguing problems that remain open.\nJoint work with Matas Sileikis, see arXiv:1911.03012
-DTEND;TZID="China Standard Time":20200518T220000
-DTSTAMP:20200512T053508Z
-DTSTART;TZID="China Standard Time":20200518T210000
-LAST-MODIFIED:20200514T035240Z
+CREATED:20200521T053040Z
+DESCRIPTION:Zoom ID: 94060901954\nhttps://cesnet.zoom.us/j/94060901954\nPassword: 23571113\nAbstract: What is the largest number f(n) such that n points in the plane (no three on a line) always determine f(n) pairwise crossing segments. This natural question was asked by Aronov, Erdős, Goddard, Kleitman, Klugerman, Pach, and Schulman in 1991 and they proved f(n)=Omega(sqrt(n)). The prevailing conjecture was that this bound is far from optimal and f(n) is probably linear in n. Nevertheless, this lower bound was not improved till last year, when  we proved with János Pach and Natan Rubin an almost (but not quite) linear lower bound. Our result gives f(n)>n/exp(O(sqrt(log n))). Determining whether f(n) is truly linear is an intriguing open problem.
+DTEND;TZID="China Standard Time":20200525T220000
+DTSTAMP:20200521T053508Z
+DTSTART;TZID="China Standard Time":20200525T210000
+LAST-MODIFIED:20200521T035240Z
 PRIORITY:5
 SEQUENCE:0
 LOCATION:Extremal and Probabilistic Combinatorics Webinar
-SUMMARY:Lutz Warnke (Georgia Tech): Counting extensions in random graphs
+SUMMARY:Gábor Tardos (Alfréd Rényi Institute): Planar point sets determine many pairwise crossing segments
 TRANSP:OPAQUE
-UID:seminar051821
+UID:seminar052521
 END:VEVENT
 
 
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200513T053040Z
-DESCRIPTION:https://zoom.us/j/91590073870?pwd=clhyYWRuNmxjL2pvTkdqckNEOWpiQT09\nAbstract: How long does it take for a pandemic to stop spreading? When modelling an infection process, especially these days, this is one of the main questions that comes to mind. In this talk, we consider this question in the bootstrap percolation setting.\nGraph-bootstrap percolation, also known as weak saturation, was introduced by Bollobás in 1968. In this process, we start with initial "infected" set of edges E0, and we infect new edges according to a predetermined rule. Given a graph H and a set of previously infected edges E_t ⊆ E(Kn), we infect a non-infected edge e if it completes a new copy of H in G=([n] , Et ∪ {e}). A question raised by Bollobás asks for the maximum time the process can run before it stabilizes. Bollobás, Przykucki, Riordan, and Sahasrabudhe considered this problem for the most natural case where H=Kr. They answered the question for r ≤ 4 and gave a non-trivial lower bound for every r ≥ 5. They also conjectured that the maximal running time is o(n2) for every integer r. We disprove their conjecture for every r ≥ 6 and we give a better lower bound for the case r=5; in the proof we use the Behrend construction. This is a joint work with József Balogh, Alexey Pokrovskiy, and Tibor Szabó.
-DTEND;TZID="China Standard Time":20200519T220000
+DESCRIPTION:Abstract: The small subgraph conditioning method is an analysis of variance technique which was introduced by Robinson and Wormald in 1992, in their proof that almost all cubic graphs are Hamiltonian. The method has been used to prove many structural results about random regular graphs, mostly to show that a certain substructure is present with high probability. I will discuss some applications of the small subgraph conditioning method to hypergraphs, and describe a subtle issue which is absent in the graph setting.
+DTEND;TZID="China Standard Time":20200526T173000
 DTSTAMP:20200513T053508Z
-DTSTART;TZID="China Standard Time":20200519T210000
+DTSTART;TZID="China Standard Time":20200526T163000
 LAST-MODIFIED:20200514T035240Z
 PRIORITY:5
 SEQUENCE:0
 LOCATION:Oxford Discrete Mathematics and Probability Seminar
-SUMMARY:Gal Kronenberg (Oxford): The maximum length of K_r-Bootstrap Percolation
+SUMMARY:Catherine Greenhill (UNSW): The small subgraph conditioning method and hypergraphs
 TRANSP:OPAQUE
-UID:seminar051921
+UID:seminar052621
 END:VEVENT
 
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200514T053040Z
-DESCRIPTION:https://zoom.us/j/91590073870?pwd=clhyYWRuNmxjL2pvTkdqckNEOWpiQT09\nAbstract: Dobrushin (1972) showed that, at low enough temperatures, the interface of the 3D Ising model - the random surface separating the plus and minus phases above and below the xy-plane - is localized: it has O(1) height fluctuations above a fixed point, and its maximum height Mn on a box of side length n is OP(log n). We study this interface and derive a shape theorem for its ``pillars'' conditionally on reaching an atypically large height. We use this to analyze the maximum height Mn of the interface, and prove that at low temperature Mn/log n converges to cβ in probability. Furthermore, the sequence (Mn - E[Mn])n≥1 is tight, and even though this sequence does not converge, its subsequential limits satisfy uniform Gumbel tails bounds.\nJoint work with Reza Gheissari.
-DTEND;TZID="China Standard Time":20200519T233000
+DESCRIPTION:Abstract: We study the following question at the intersection of extremal and structural graph theory. Given a fixed graph H that embeds in a fixed surface Σ, what is the maximum number of copies of H in an n-vertex graph that embeds in Σ? Exact answers to this question are known for specific graphs H when Σ is the sphere. We aim for more general, albeit less precise, results. We show that the answer to the above question is Θ(nf(H)), where f(H) is a graph invariant called the `flap-number' of H, which is independent of Σ. This simultaneously answers two open problems posed by Eppstein (1993). When H is a complete graph we give more precise answers. This is joint work with Tony Huynh and Gwenaël Joret [https://arxiv.org/abs/2003.13777].
+DTEND;TZID="China Standard Time":20200526T190000
 DTSTAMP:20200514T053508Z
-DTSTART;TZID="China Standard Time":20200519T223000
+DTSTART;TZID="China Standard Time":20200526T180000
 LAST-MODIFIED:20200515T035240Z
 PRIORITY:5
 SEQUENCE:0
 LOCATION:Oxford Discrete Mathematics and Probability Seminar
-SUMMARY:Eyal Lubetzky (Courant): Maximum height of 3D Ising interfaces
+SUMMARY:David Wood (Monash): Subgraph densities in a surface
 TRANSP:OPAQUE
-UID:seminar05192230
+UID:seminar05262230
 END:VEVENT
 
 END:VCALENDAR

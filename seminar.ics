@@ -23,7 +23,7 @@ DTEND;TZID="China Standard Time":20200528T163000
 DTSTAMP:20200514T043508Z
 DTSTART;TZID="China Standard Time":20200528T150000
 LAST-MODIFIED:20200521T053540Z
-PRIORITY:5
+PRIORITY:8
 SEQUENCE:0
 SUMMARY:Hong Liu (Warwick): Basics on the hypergraph container method IV
 LOCATION:SCMS Combinatorics Seminar
@@ -39,7 +39,7 @@ DTEND;TZID="China Standard Time":20200525T220000
 DTSTAMP:20200521T053508Z
 DTSTART;TZID="China Standard Time":20200525T210000
 LAST-MODIFIED:20200521T035240Z
-PRIORITY:5
+PRIORITY:8
 SEQUENCE:0
 LOCATION:Extremal and Probabilistic Combinatorics Webinar
 SUMMARY:Gábor Tardos (Alfréd Rényi Institute): Planar point sets determine many pairwise crossing segments
@@ -56,7 +56,7 @@ DTEND;TZID="China Standard Time":20200526T173000
 DTSTAMP:20200513T053508Z
 DTSTART;TZID="China Standard Time":20200526T163000
 LAST-MODIFIED:20200514T035240Z
-PRIORITY:5
+PRIORITY:8
 SEQUENCE:0
 LOCATION:Oxford Discrete Mathematics and Probability Seminar
 SUMMARY:Catherine Greenhill (UNSW): The small subgraph conditioning method and hypergraphs
@@ -72,7 +72,7 @@ DTEND;TZID="China Standard Time":20200526T190000
 DTSTAMP:20200514T053508Z
 DTSTART;TZID="China Standard Time":20200526T180000
 LAST-MODIFIED:20200515T035240Z
-PRIORITY:5
+PRIORITY:8
 SEQUENCE:0
 LOCATION:Oxford Discrete Mathematics and Probability Seminar
 SUMMARY:David Wood (Monash): Subgraph densities in a surface
@@ -89,7 +89,7 @@ DTSTAMP:20200520T055508Z
 DTSTART;TZID="China Standard Time":20200527T210000
 LOCATION:Warwick Combinatorics Seminar
 LAST-MODIFIED:20200520T070140Z
-PRIORITY:5
+PRIORITY:8
 SEQUENCE:0
 SUMMARY:Peleg Michaeli (McGill): Greedy maximal independent sets via local limits
 TRANSP:OPAQUE
@@ -106,7 +106,7 @@ DTSTAMP:20200520T055508Z
 DTSTART;TZID="China Standard Time":20200520T000000
 LOCATION:Big Seminar of Laboratory
 LAST-MODIFIED:20200521T070140Z
-PRIORITY:6
+PRIORITY:8
 SEQUENCE:0
 SUMMARY:David Conlon (Caltech): Recent progress in extremal graph theory
 TRANSP:OPAQUE
@@ -122,13 +122,12 @@ DTSTAMP:20200520T055508Z
 DTSTART;TZID="China Standard Time":20200520T000000
 LOCATION:Webinar in Additive Combinatorics
 LAST-MODIFIED:20200521T070140Z
-PRIORITY:5
+PRIORITY:8
 SEQUENCE:0
 SUMMARY:Ashwin Sah (MIT): Diagonal Ramsey via effective quasirandomness
 TRANSP:OPAQUE
 UID:seminar05290000
 END:VEVENT
-
 
 
 END:VCALENDAR

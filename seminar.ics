@@ -103,7 +103,7 @@ CREATED:20200516T053040Z
 DESCRIPTION:https://zoom.us/j/279059822\nPassword:141592\nThe extremal number ex(n, H) of a graph H is the largest number of edges in an n-vertex graph containing no copy of H. In this talk, we will describe some of the recent progress that has been made on understanding this question in the difficult case when H is bipartite.
 DTEND;TZID="China Standard Time":20200529T010000
 DTSTAMP:20200520T055508Z
-DTSTART;TZID="China Standard Time":20200520T000000
+DTSTART;TZID="China Standard Time":20200529T000000
 LOCATION:Big Seminar of Laboratory
 LAST-MODIFIED:20200521T070140Z
 PRIORITY:8
@@ -119,7 +119,7 @@ CREATED:20200516T053040Z
 DESCRIPTION:check https://sites.google.com/view/web-add-comb for zoom link\nWe improve the upper bound for diagonal Ramsey numbers to\nR(k+1,k+1)\le\exp(-c(\log k)^2)\binom{2k}{k}\nfor $k\ge 3$. To do so, we build on a quasirandomness and induction framework for Ramsey numbers introduced by Thomason and extended by Conlon, demonstrating optimal ``effective quasirandomness'' results about convergence of graphs. This optimality represents a natural barrier to improvement.bipartite.
 DTEND;TZID="China Standard Time":20200529T010000
 DTSTAMP:20200520T055508Z
-DTSTART;TZID="China Standard Time":20200520T000000
+DTSTART;TZID="China Standard Time":20200529T000000
 LOCATION:Webinar in Additive Combinatorics
 LAST-MODIFIED:20200521T070140Z
 PRIORITY:8

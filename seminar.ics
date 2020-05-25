@@ -51,7 +51,7 @@ END:VEVENT
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200513T053040Z
-DESCRIPTION:Abstract: The small subgraph conditioning method is an analysis of variance technique which was introduced by Robinson and Wormald in 1992, in their proof that almost all cubic graphs are Hamiltonian. The method has been used to prove many structural results about random regular graphs, mostly to show that a certain substructure is present with high probability. I will discuss some applications of the small subgraph conditioning method to hypergraphs, and describe a subtle issue which is absent in the graph setting.
+DESCRIPTION:https://zoom.us/j/99617659813?pwd=K01MaTArY1hjVEhYZmlzRXBVR1NOdz09\nAbstract: The small subgraph conditioning method is an analysis of variance technique which was introduced by Robinson and Wormald in 1992, in their proof that almost all cubic graphs are Hamiltonian. The method has been used to prove many structural results about random regular graphs, mostly to show that a certain substructure is present with high probability. I will discuss some applications of the small subgraph conditioning method to hypergraphs, and describe a subtle issue which is absent in the graph setting.
 DTEND;TZID="China Standard Time":20200526T173000
 DTSTAMP:20200513T053508Z
 DTSTART;TZID="China Standard Time":20200526T163000
@@ -67,7 +67,7 @@ END:VEVENT
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200514T053040Z
-DESCRIPTION:Abstract: We study the following question at the intersection of extremal and structural graph theory. Given a fixed graph H that embeds in a fixed surface Σ, what is the maximum number of copies of H in an n-vertex graph that embeds in Σ? Exact answers to this question are known for specific graphs H when Σ is the sphere. We aim for more general, albeit less precise, results. We show that the answer to the above question is Θ(nf(H)), where f(H) is a graph invariant called the `flap-number' of H, which is independent of Σ. This simultaneously answers two open problems posed by Eppstein (1993). When H is a complete graph we give more precise answers. This is joint work with Tony Huynh and Gwenaël Joret [https://arxiv.org/abs/2003.13777].
+DESCRIPTION:https://zoom.us/j/99617659813?pwd=K01MaTArY1hjVEhYZmlzRXBVR1NOdz09\nAbstract: We study the following question at the intersection of extremal and structural graph theory. Given a fixed graph H that embeds in a fixed surface Σ, what is the maximum number of copies of H in an n-vertex graph that embeds in Σ? Exact answers to this question are known for specific graphs H when Σ is the sphere. We aim for more general, albeit less precise, results. We show that the answer to the above question is Θ(nf(H)), where f(H) is a graph invariant called the `flap-number' of H, which is independent of Σ. This simultaneously answers two open problems posed by Eppstein (1993). When H is a complete graph we give more precise answers. This is joint work with Tony Huynh and Gwenaël Joret [https://arxiv.org/abs/2003.13777].
 DTEND;TZID="China Standard Time":20200526T190000
 DTSTAMP:20200514T053508Z
 DTSTART;TZID="China Standard Time":20200526T180000
@@ -79,5 +79,56 @@ SUMMARY:David Wood (Monash): Subgraph densities in a surface
 TRANSP:OPAQUE
 UID:seminar05262230
 END:VEVENT
+
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20200516T053040Z
+DESCRIPTION:Zoom Meeting ID: 830 9689 8964\nhttps://us02web.zoom.us/j/83096898964\nPassword: WC2020\nThe random greedy algorithm for finding a maximal independent set in a graph has been studied extensively in various settings in combinatorics, probability, computer science — and even in chemistry. The algorithm builds a maximal independent set by inspecting the vertices of the graph one at a time according to a random order, adding the current vertex to the independent set if it is not connected to any previously added vertex by an edge.\nIn this talk I will present a natural and general framework for calculating the asymptotics of the proportion of the yielded independent set for sequences of (possibly random) graphs, involving a useful notion of local convergence. We use this framework both to give short and simple proofs for results on previously studied families of graphs, such as paths and binomial random graphs, and to give new results for other models such as random trees.\nIf time allows, I will discuss a more delicate result, according to which in expectation, the cardinality of a random greedy independent set in the path is no larger than that in any other tree of the same order.\nThe talk is based on a joint work with Michael Krivelevich, Tamás Mészáros and Clara Shikhelman.
+DTEND;TZID="China Standard Time":20200527T220000
+DTSTAMP:20200520T055508Z
+DTSTART;TZID="China Standard Time":20200527T210000
+LOCATION:Warwick Combinatorics Seminar
+LAST-MODIFIED:20200520T070140Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY:Peleg Michaeli (McGill): Greedy maximal independent sets via local limits
+TRANSP:OPAQUE
+UID:seminar052721
+END:VEVENT
+
+
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20200516T053040Z
+DESCRIPTION:https://zoom.us/j/279059822\nPassword:141592\nThe extremal number ex(n, H) of a graph H is the largest number of edges in an n-vertex graph containing no copy of H. In this talk, we will describe some of the recent progress that has been made on understanding this question in the difficult case when H is bipartite.
+DTEND;TZID="China Standard Time":20200529T010000
+DTSTAMP:20200520T055508Z
+DTSTART;TZID="China Standard Time":20200520T000000
+LOCATION:Big Seminar of Laboratory
+LAST-MODIFIED:20200521T070140Z
+PRIORITY:6
+SEQUENCE:0
+SUMMARY:David Conlon (Caltech): Recent progress in extremal graph theory
+TRANSP:OPAQUE
+UID:seminar052900
+END:VEVENT
+
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20200516T053040Z
+DESCRIPTION:check https://sites.google.com/view/web-add-comb for zoom link\nWe improve the upper bound for diagonal Ramsey numbers to\nR(k+1,k+1)\le\exp(-c(\log k)^2)\binom{2k}{k}\nfor $k\ge 3$. To do so, we build on a quasirandomness and induction framework for Ramsey numbers introduced by Thomason and extended by Conlon, demonstrating optimal ``effective quasirandomness'' results about convergence of graphs. This optimality represents a natural barrier to improvement.bipartite.
+DTEND;TZID="China Standard Time":20200529T010000
+DTSTAMP:20200520T055508Z
+DTSTART;TZID="China Standard Time":20200520T000000
+LOCATION:Webinar in Additive Combinatorics
+LAST-MODIFIED:20200521T070140Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY:Ashwin Sah (MIT): Diagonal Ramsey via effective quasirandomness
+TRANSP:OPAQUE
+UID:seminar05290000
+END:VEVENT
+
+
 
 END:VCALENDAR

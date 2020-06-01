@@ -51,11 +51,11 @@ END:VEVENT
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200513T053040Z
-DESCRIPTION:Abstract: We say that a graph G is H-free if G does not contain H as a (not necessarily induced) subgraph. For a positive integer n, denote by ex(n,H) the largest number of edges in an H-free graph with n vertices (the Turán number of H). The classical theorem of Erdős, Kleitman, and Rothschild states that, for every r≥3, there are 2ex(n,H)+o(n2) many Kr-free graphs with vertex set {1,…, n}. There exist (at least) three different derivations of this estimate in the literature: an inductive argument based on the Kővári-Sós-Turán theorem (and its generalisation to hypergraphs due to Erdős), a proof based on Szemerédi's regularity lemma, and an argument based on the hypergraph container theorems. In this talk, we present yet another proof of this bound that exploits connections between entropy and independence. This argument is an adaptation of a method developed in a joint work with Gady Kozma, Tom Meyerovitch, and Ron Peled that studied random metric spaces.
+DESCRIPTION:https://zoom.us/j/94158022084?pwd=ZzAyTGZEcmZrNmwraVYxNW9yV3l5dz09\nAbstract: We say that a graph G is H-free if G does not contain H as a (not necessarily induced) subgraph. For a positive integer n, denote by ex(n,H) the largest number of edges in an H-free graph with n vertices (the Turán number of H). The classical theorem of Erdős, Kleitman, and Rothschild states that, for every r≥3, there are 2ex(n,H)+o(n2) many Kr-free graphs with vertex set {1,…, n}. There exist (at least) three different derivations of this estimate in the literature: an inductive argument based on the Kővári-Sós-Turán theorem (and its generalisation to hypergraphs due to Erdős), a proof based on Szemerédi's regularity lemma, and an argument based on the hypergraph container theorems. In this talk, we present yet another proof of this bound that exploits connections between entropy and independence. This argument is an adaptation of a method developed in a joint work with Gady Kozma, Tom Meyerovitch, and Ron Peled that studied random metric spaces.
 DTEND;TZID="China Standard Time":20200602T220000
 DTSTAMP:20200513T053508Z
 DTSTART;TZID="China Standard Time":20200602T210000
-LAST-MODIFIED:20200514T035240Z
+LAST-MODIFIED:20200524T035240Z
 PRIORITY:8
 SEQUENCE:0
 LOCATION:Oxford Discrete Mathematics and Probability Seminar
@@ -67,11 +67,11 @@ END:VEVENT
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200514T053040Z
-DESCRIPTION:Abstract: Let X1, … be i.i.d. copies of some real random variable X. For any ε2, ε3, … in {0,1}, a basic algorithm introduced by H.A. Simon yields a reinforced sequence X̂1, X̂2, … as follows. If εn=0, then X̂n is a uniform random sample from X̂1, …, X̂n-1; otherwise X̂n is a new independent copy of X. The purpose of this talk is to compare the scaling exponent of the usual random walk S(n)=X1 +… + Xn with that of its step reinforced version Ŝ(n)=X̂1+… + X̂n. Depending on the tail of X and on asymptotic behavior of the sequence εj, we show that step reinforcement may speed up the walk, or at the contrary slow it down, or also does not affect the scaling exponent at all. Our motivation partly stems from the study of random walks with memory, notably the so-called elephant random walk and its variations.
+DESCRIPTION:https://zoom.us/j/94158022084?pwd=ZzAyTGZEcmZrNmwraVYxNW9yV3l5dz09\nAbstract: Let X1, … be i.i.d. copies of some real random variable X. For any ε2, ε3, … in {0,1}, a basic algorithm introduced by H.A. Simon yields a reinforced sequence X̂1, X̂2, … as follows. If εn=0, then X̂n is a uniform random sample from X̂1, …, X̂n-1; otherwise X̂n is a new independent copy of X. The purpose of this talk is to compare the scaling exponent of the usual random walk S(n)=X1 +… + Xn with that of its step reinforced version Ŝ(n)=X̂1+… + X̂n. Depending on the tail of X and on asymptotic behavior of the sequence εj, we show that step reinforcement may speed up the walk, or at the contrary slow it down, or also does not affect the scaling exponent at all. Our motivation partly stems from the study of random walks with memory, notably the so-called elephant random walk and its variations.
 DTEND;TZID="China Standard Time":20200602T233000
 DTSTAMP:20200514T053508Z
 DTSTART;TZID="China Standard Time":20200602T223000
-LAST-MODIFIED:20200515T035240Z
+LAST-MODIFIED:20200525T035240Z
 PRIORITY:8
 SEQUENCE:0
 LOCATION:Oxford Discrete Mathematics and Probability Seminar

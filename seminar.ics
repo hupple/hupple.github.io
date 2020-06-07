@@ -18,98 +18,50 @@ END:VTIMEZONE
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200521T043040Z
-DESCRIPTION:https://zoom.com.cn/j/92765483062\nPassword: 061801\n
-DTEND;TZID="China Standard Time":20200604T163000
+DESCRIPTION:https://zoom.com.cn/j/92368341744\nPassword: 061801\nAbstract: Suppose that Y_1, …, Y_N are i.i.d. (independent identically distributed) random variables and let X = Y_1 + … + Y_N. The classical theory of large deviations allows one to accurately estimate the probability of the tail events X < (1-c)E[X] and X > (1+c)E[X] for any positive c. However, the methods involved strongly rely on the fact that X is a linear function of the independent variables Y_1, …, Y_N. There has been considerable interest—both theoretical and practical—in developing tools for estimating such tail probabilities also when X is a nonlinear function of the Y_i. One archetypal example studied by both the combinatorics and the probability communities is when X is the number of triangles in the binomial random graph G(n,p).\nTalk I: We will give a very gentle introduction to the theory of large deviations and discuss the history of the large deviation problem for triangle counts.
+DTEND;TZID="China Standard Time":20200611T160000
 DTSTAMP:20200514T043508Z
-DTSTART;TZID="China Standard Time":20200604T150000
-LAST-MODIFIED:20200526T053540Z
+DTSTART;TZID="China Standard Time":20200611T150000
+LAST-MODIFIED:20200606T053540Z
 PRIORITY:8
 SEQUENCE:0
-SUMMARY:Hong Liu (Warwick): Basics on the hypergraph container method V
+SUMMARY:Wojciech Samotij (Tel Aviv): Large deviations of triangle counts in the binomial random graph I
 LOCATION:SCMS Combinatorics Seminar
 TRANSP:OPAQUE
-UID:seminar060415
+UID:seminar061115
 END:VEVENT
 
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200526T053040Z
-DESCRIPTION:https://cesnet.zoom.us/j/91258803374\nPassword: 23571113\nAbstract: A graph H is common if the number of monochromatic copies of H in a 2-edge-colouring of the complete graph K_N is minimised by the random colouring. Burr and Rosta, extending a famous conjecture by Erdős, conjectured that every graph is common, which was disproved by Thomason and by Sidorenko in late 1980s. Collecting new examples for common graphs had not seen much progress since then, although very recently, a few more graphs are verified to be common by the flag algebra method or the recent progress on Sidorenko's conjecture.\nOur contribution here is to give a new class of tripartite common graphs. The first example class is so-called triangle trees, which generalises two theorems by Sidorenko and hence answers a question by Jagger,  Šťovíček, and Thomason from 1996. We also prove that, somewhat surprisingly, given any tree T, there exists a triangle tree such that the graph obtained by adding T as a pendant tree is still common. Furthermore, we show that some complete tripartite graphs, e.g., the octahedron graph K_2,2,2, are common and conjecture that every complete tripartite graph is common.\nJoint work with Andrzej Grzesik, Bernard Lidický, and Jan Volec.
-DTEND;TZID="China Standard Time":20200601T220000
+DESCRIPTION:https://cesnet.zoom.us/j/96398784345\nPassword: 23571113\nAbstract: We show that the `Upper Matching Conjecture' of Friedland, Krop, and Markström and the analogous conjecture of Kahn for independent sets in regular graphs hold for all large enough graphs as a function of the degree. That is, for every d and every large enough n divisible by 2d, a union of n/(2d) copies of the complete d-regular bipartite graph maximises the number of independent sets and matchings of any given size over all d-regular graphs on n vertices. For the proof, we'll discuss two different approaches to these problems, both inspired by statistical physics. This is joint work with Ewan Davies and Will Perkins.
+DTEND;TZID="China Standard Time":20200608T220000
 DTSTAMP:20200527T053508Z
-DTSTART;TZID="China Standard Time":20200601T210000
+DTSTART;TZID="China Standard Time":20200608T210000
 LAST-MODIFIED:20200527T035240Z
 PRIORITY:8
 SEQUENCE:0
 LOCATION:Extremal and Probabilistic Combinatorics Webinar
-SUMMARY:Joonkyung Lee (Universität Hamburg): On tripartite common graphs
+SUMMARY:Matthew Jenssen (University of Birmingham): A proof of the Upper Matching Conjecture for large graphs
 TRANSP:OPAQUE
-UID:seminar060121
+UID:seminar060821
 END:VEVENT
 
-
-BEGIN:VEVENT
-CLASS:PUBLIC
-CREATED:20200513T053040Z
-DESCRIPTION:https://zoom.us/j/94158022084?pwd=ZzAyTGZEcmZrNmwraVYxNW9yV3l5dz09\nAbstract: We say that a graph G is H-free if G does not contain H as a (not necessarily induced) subgraph. For a positive integer n, denote by ex(n,H) the largest number of edges in an H-free graph with n vertices (the Turán number of H). The classical theorem of Erdős, Kleitman, and Rothschild states that, for every r≥3, there are 2ex(n,H)+o(n2) many Kr-free graphs with vertex set {1,…, n}. There exist (at least) three different derivations of this estimate in the literature: an inductive argument based on the Kővári-Sós-Turán theorem (and its generalisation to hypergraphs due to Erdős), a proof based on Szemerédi's regularity lemma, and an argument based on the hypergraph container theorems. In this talk, we present yet another proof of this bound that exploits connections between entropy and independence. This argument is an adaptation of a method developed in a joint work with Gady Kozma, Tom Meyerovitch, and Ron Peled that studied random metric spaces.
-DTEND;TZID="China Standard Time":20200602T220000
-DTSTAMP:20200513T053508Z
-DTSTART;TZID="China Standard Time":20200602T210000
-LAST-MODIFIED:20200524T035240Z
-PRIORITY:8
-SEQUENCE:0
-LOCATION:Oxford Discrete Mathematics and Probability Seminar
-SUMMARY:Wojciech Samotij (Tel Aviv): An entropy proof of the Erdős-Kleitman-Rothschild theorem
-TRANSP:OPAQUE
-UID:seminar060221
-END:VEVENT
-
-BEGIN:VEVENT
-CLASS:PUBLIC
-CREATED:20200514T053040Z
-DESCRIPTION:https://zoom.us/j/94158022084?pwd=ZzAyTGZEcmZrNmwraVYxNW9yV3l5dz09\nAbstract: Let X1, … be i.i.d. copies of some real random variable X. For any ε2, ε3, … in {0,1}, a basic algorithm introduced by H.A. Simon yields a reinforced sequence X̂1, X̂2, … as follows. If εn=0, then X̂n is a uniform random sample from X̂1, …, X̂n-1; otherwise X̂n is a new independent copy of X. The purpose of this talk is to compare the scaling exponent of the usual random walk S(n)=X1 +… + Xn with that of its step reinforced version Ŝ(n)=X̂1+… + X̂n. Depending on the tail of X and on asymptotic behavior of the sequence εj, we show that step reinforcement may speed up the walk, or at the contrary slow it down, or also does not affect the scaling exponent at all. Our motivation partly stems from the study of random walks with memory, notably the so-called elephant random walk and its variations.
-DTEND;TZID="China Standard Time":20200602T233000
-DTSTAMP:20200514T053508Z
-DTSTART;TZID="China Standard Time":20200602T223000
-LAST-MODIFIED:20200525T035240Z
-PRIORITY:8
-SEQUENCE:0
-LOCATION:Oxford Discrete Mathematics and Probability Seminar
-SUMMARY:Jean Bertoin (University of Zürich): Scaling exponents of step-reinforced random walks
-TRANSP:OPAQUE
-UID:seminar06022230
-END:VEVENT
 
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200526T053040Z
-DESCRIPTION:Zoom Meeting ID: 830 9689 8964\nhttps://us02web.zoom.us/j/83096898964\nPassword: WC2020\nLet G be a connected unimodular group and let μG be a Haar measure on G. Kemperman showed that for compact A and B in G, μG(AB)≥min(μG(A)+μG(B),μG(G)). This implies that the n-fold product An of A has μG(An)≥min(nμG(A),μG(G)) and when G is not compact, limn→∞μG(An)/(nμG(A))≥1. We obtain simple classifications of G, A, and B such that the equalities hold, answering a question asked by Kemperman in 1964. We also get near equality versions of the above results with explicit bound for compact G, confirming conjectures made by Griesmer and by Tao. Our strategy of proof involves reducing the problem to Lie groups through the use of an argument inspired by Breuillard--Green--Tao's classification of approximate groups via Hrushovski's Lie model theorem, and then developing new techniques to reduce the Lie group problem to the case of tori. This is joint work with Minh Tran.
-DTEND;TZID="China Standard Time":20200603T220000
+DESCRIPTION:Zoom Meeting ID: 830 9689 8964\nhttps://us02web.zoom.us/j/83096898964\nPassword: WC2020\nConsider a random graph process, in which edges are added to an empty graph consecutively in a uniformly chosen random order. A classical result by Bollobás and Frieze state that at the first moment the graph no longer contains vertices of degree less than 2k, it also typically contains k edge disjoint Hamilton cycles.\nWe extend this result to random subgraph processes, in which only edges of a given base graph are added, for certain families of dense base graphs.\nBased on a joint work with Michael Krivelevich.
+DTEND;TZID="China Standard Time":20200610T220000
 DTSTAMP:20200527T055508Z
-DTSTART;TZID="China Standard Time":20200603T210000
+DTSTART;TZID="China Standard Time":20200610T210000
 LOCATION:Warwick Combinatorics Seminar
 LAST-MODIFIED:20200527T070140Z
 PRIORITY:8
 SEQUENCE:0
-SUMMARY:Yifan Jing (UIUC): Structures of sets with minimal measure growth
+SUMMARY:Yahav Alon (Tel Aviv):Hitting time of disjoint Hamilton cycles in random subgraph processes''
 TRANSP:OPAQUE
-UID:seminar060321
-END:VEVENT
-
-BEGIN:VEVENT
-CLASS:PUBLIC
-CREATED:20200516T053040Z
-DESCRIPTION:https://webconf.u-bordeaux.fr/b/mar-ef4-zed\nA ``pure pair'' in a graph G is a pair (X,Y) of disjoint subsets of V(G) such that either every vertex in X is adjacent to every vertex in Y, or there are no edges from X to Y. Let f(G) be the biggest k such that G has a pure pair (X,Y) with |X|,|Y| at least k. In general, f(G) is logarithmic in |G|, and for any fixed graph H, if G does not contain H as an induced subgraph then f(G) is polynomial in |G|. (This is a result of Erdos, Hajnal and Pach.) But when is f(G) linear in |G|? This is connected with the Erdos-Hajnal conjecture and the Gyarfas-Sumner conjecture.\nA couple of years ago, we proved a nice thing, a conjecture of Liebenau and Pilipczuk: for any finite set C of graphs, f(G) is linear in |G| for all graphs with no induced subgraph in C, if and only if C contains a forest and the complement of a forest. This result has since grown a number of extensions and variations. (What about bipartite graphs? What about ordered graphs? What about nearly-linear? What if the two sets have different sizes?). We give a tour.\nJoint work with Maria Chudnovsky, Jacob Fox, Alex Scott and Sophie Spirkl.
-DTEND;TZID="China Standard Time":20200605T210000
-DTSTAMP:20200520T055508Z
-DTSTART;TZID="China Standard Time":20200605T200000
-LOCATION:Equipe Comb. et Alg. du LaBRI
-LAST-MODIFIED:20200522T070140Z
-PRIORITY:8
-SEQUENCE:0
-SUMMARY:Paul Seymour (Princeton): Pure pairs of vertex-subsets
-TRANSP:OPAQUE
-UID:seminar060520
+UID:seminar061021
 END:VEVENT
 
 END:VCALENDAR

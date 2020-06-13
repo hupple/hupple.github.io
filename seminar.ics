@@ -18,50 +18,66 @@ END:VTIMEZONE
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200521T043040Z
-DESCRIPTION:https://zoom.com.cn/j/92368341744\nPassword: 061801\nAbstract: Suppose that Y_1, …, Y_N are i.i.d. (independent identically distributed) random variables and let X = Y_1 + … + Y_N. The classical theory of large deviations allows one to accurately estimate the probability of the tail events X < (1-c)E[X] and X > (1+c)E[X] for any positive c. However, the methods involved strongly rely on the fact that X is a linear function of the independent variables Y_1, …, Y_N. There has been considerable interest—both theoretical and practical—in developing tools for estimating such tail probabilities also when X is a nonlinear function of the Y_i. One archetypal example studied by both the combinatorics and the probability communities is when X is the number of triangles in the binomial random graph G(n,p).\nTalk I: We will give a very gentle introduction to the theory of large deviations and discuss the history of the large deviation problem for triangle counts.
-DTEND;TZID="China Standard Time":20200611T160000
+DESCRIPTION:https://zoom.com.cn/j/92368341744\nPassword: 061801\nAbstract: Suppose that Y_1, …, Y_N are i.i.d. (independent identically distributed) random variables and let X = Y_1 + … + Y_N. The classical theory of large deviations allows one to accurately estimate the probability of the tail events X < (1-c)E[X] and X > (1+c)E[X] for any positive c. However, the methods involved strongly rely on the fact that X is a linear function of the independent variables Y_1, …, Y_N. There has been considerable interest—both theoretical and practical—in developing tools for estimating such tail probabilities also when X is a nonlinear function of the Y_i. One archetypal example studied by both the combinatorics and the probability communities is when X is the number of triangles in the binomial random graph G(n,p).\nTalk II: We will present a complete solution to the upper tail problem for triangle counts in G(n,p) that was obtained recently in a joint work with Matan Harel and Frank Mousset.
+DTEND;TZID="China Standard Time":20200618T160000
 DTSTAMP:20200514T043508Z
-DTSTART;TZID="China Standard Time":20200611T150000
+DTSTART;TZID="China Standard Time":20200618T150000
 LAST-MODIFIED:20200606T053540Z
 PRIORITY:8
 SEQUENCE:0
-SUMMARY:Wojciech Samotij (Tel Aviv): Large deviations of triangle counts in the binomial random graph I
+SUMMARY:Wojciech Samotij (Tel Aviv): Large deviations of triangle counts in the binomial random graph II
 LOCATION:SCMS Combinatorics Seminar
 TRANSP:OPAQUE
-UID:seminar061115
+UID:seminar061815
 END:VEVENT
 
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200526T053040Z
-DESCRIPTION:https://cesnet.zoom.us/j/96398784345\nPassword: 23571113\nAbstract: We show that the `Upper Matching Conjecture' of Friedland, Krop, and Markström and the analogous conjecture of Kahn for independent sets in regular graphs hold for all large enough graphs as a function of the degree. That is, for every d and every large enough n divisible by 2d, a union of n/(2d) copies of the complete d-regular bipartite graph maximises the number of independent sets and matchings of any given size over all d-regular graphs on n vertices. For the proof, we'll discuss two different approaches to these problems, both inspired by statistical physics. This is joint work with Ewan Davies and Will Perkins.
-DTEND;TZID="China Standard Time":20200608T220000
+DESCRIPTION:https://cesnet.zoom.us/j/98822033687\nPassword: 23571113\nAbstract: A classical result of Galai asserts that the vertex-set of every graph can be partitioned into two sets such that each induces a graph with all degrees even. Scott studied the (harder) problem of determining for which graphs can we find a partition into arbitrary many parts, each of which induces a graph with all odd degrees.\nIn this talk we discuss various extensions of this problem to arbitrary residues mod q>2. Among other results, we show that for every q, a typical graph G(n,1/2) can be equipartitioned (up to divisibility conditions) into q+1 sets, each of which spans a graph with a prescribed degree sequence.\nSwitching to a completely unrelated problem: based on idea of the main key lemma of the above results, we give non-trivial bound (but weaker than known results) on the singularity probabbility of a random symmetric Bernoulli matrix. The new argument avoids both decoupling and distance from random hyperplanes and it turns this problem into a simple and elegant exercise.\nThe first part of the talk is based on a joint work with Liam Hardiman (UCI) and Michael Krivelevich (Tel Aviv University).
+DTEND;TZID="China Standard Time":20200615T220000
 DTSTAMP:20200527T053508Z
-DTSTART;TZID="China Standard Time":20200608T210000
-LAST-MODIFIED:20200527T035240Z
+DTSTART;TZID="China Standard Time":20200615T210000
+LAST-MODIFIED:20200529T035240Z
 PRIORITY:8
 SEQUENCE:0
 LOCATION:Extremal and Probabilistic Combinatorics Webinar
-SUMMARY:Matthew Jenssen (University of Birmingham): A proof of the Upper Matching Conjecture for large graphs
+SUMMARY:Asaf Ferber (UC Irvine): Induced subgraphs with prescribed degrees mod q
 TRANSP:OPAQUE
-UID:seminar060821
+UID:seminar061521
+END:VEVENT
+
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20200526T053040Z
+DESCRIPTION:Zoom Meeting ID: 830 9689 8964\nhttps://us02web.zoom.us/j/83096898964\nPassword: WC2020\nA conjecture of Erdős from 1967 asserts that any graph on $n$ vertices which does not contain a fixed $r$-degenerate bipartite graph $F$ has at most $Cn^{2−1/r}$ edges, where $C$ is a constant depending only on $F$. We show that this bound holds for a large family of $r$-degenerate bipartite graphs, including all $r$-degenerate blow-ups of trees. Our results generalize many previously proven cases of the Erdős conjecture, including the related results of Furedi and Alon, Krivelevich and Sudakov. Joint work with Oliver Janzer and Zoltán Lóránt Nagy.
+DTEND;TZID="China Standard Time":20200617T220000
+DTSTAMP:20200527T055508Z
+DTSTART;TZID="China Standard Time":20200617T210000
+LOCATION:Warwick Combinatorics Seminar
+LAST-MODIFIED:20200529T070140Z
+PRIORITY:8
+SEQUENCE:0
+SUMMARY:Andrzej Grzesik (Jagiellonian): The Turán number of blow-ups of trees
+TRANSP:OPAQUE
+UID:seminar061721
 END:VEVENT
 
 
 BEGIN:VEVENT
 CLASS:PUBLIC
-CREATED:20200526T053040Z
-DESCRIPTION:Zoom Meeting ID: 830 9689 8964\nhttps://us02web.zoom.us/j/83096898964\nPassword: WC2020\nConsider a random graph process, in which edges are added to an empty graph consecutively in a uniformly chosen random order. A classical result by Bollobás and Frieze state that at the first moment the graph no longer contains vertices of degree less than 2k, it also typically contains k edge disjoint Hamilton cycles.\nWe extend this result to random subgraph processes, in which only edges of a given base graph are added, for certain families of dense base graphs.\nBased on a joint work with Michael Krivelevich.
-DTEND;TZID="China Standard Time":20200610T220000
-DTSTAMP:20200527T055508Z
-DTSTART;TZID="China Standard Time":20200610T210000
-LOCATION:Warwick Combinatorics Seminar
-LAST-MODIFIED:20200527T070140Z
+CREATED:20200606T053040Z
+DESCRIPTION:https://canterbury.zoom.us/j/92511352067\nAbstract: We define a branching process to understand the locality or otherwise of the critical percolation in the hypercube; that is, whether the local structure of the hypercube can explain the critical percolation as a function of the dimension of the hypercube.\nThe branching process mimics the local behaviour of an exploration of a percolated hypercube; it is defined recursively as follows. Start with a single individual in generation 0. On an first stage, each individual has independent Poisson offspring with mean (1+p)(1-q)k where k depends on the ancestry of the individual; on the merger stage, each pair of cousins merges with probability q.\nWe exhibit evidence of a critical merger probability qc=qc(p) for extinction of the branching process. When p is sufficiently small, the first order terms of qc coincide with those of the critical percolation for the hypercube, suggesting that percolation in the hypercube is dictated by its local structure. This is work in progress with Laura Eslava and Sarah Penington.
+DTEND;TZID="China Standard Time":20200617T160000
+DTSTAMP:20200607T055508Z
+DTSTART;TZID="China Standard Time":20200617T150000
+LOCATION:CMSA seminar
+LAST-MODIFIED:20200609T070140Z
 PRIORITY:8
 SEQUENCE:0
-SUMMARY:Yahav Alon (Tel Aviv):Hitting time of disjoint Hamilton cycles in random subgraph processes''
+SUMMARY:Fiona Skerman (Uppsala): Branching processes with merges and locality of hypercube’s critical percolation
 TRANSP:OPAQUE
-UID:seminar061021
+UID:seminar061715
 END:VEVENT
 
 END:VCALENDAR

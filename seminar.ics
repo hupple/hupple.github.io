@@ -80,4 +80,20 @@ TRANSP:OPAQUE
 UID:seminar061715
 END:VEVENT
 
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20200606T053040Z
+DESCRIPTION:https://us02web.zoom.us/j/279059822\nPassword 141592\nAbstract: We develop novel techniques which allow us to prove a diverse range of results relating to subset sums and complete sequences of positive integers, including solutions to several long standing open problems. These include: solutions to the three problems of Burr and Erdös on Ramsey complete sequences, for which Erdös later offered a combined total of 350 analogous results for the new notion of density complete sequences; the answer to a question of Alon and Erdös on the minimum number of colors needed to color the positive integers less than  so that  cannot be written as a monochromatic sum; the exact determination of an extremal function introduced by Erdös and Graham and first studied by Alon on sets of integers avoiding a given subset sum; and, answering a question of Tran, Vu and Wood, a common strengthening of seminal results of Szemerédi-Vu and Sárközy on long arithmetic progressions in subset sums.\nBased on joint work with David Conlon and Huy Tuan Pham.
+DTEND;TZID="China Standard Time":20200619T010000
+DTSTAMP:20200607T055508Z
+DTSTART;TZID="China Standard Time":20200619T000000
+LOCATION:CMSA seminar
+LAST-MODIFIED:20200609T070140Z
+PRIORITY:8
+SEQUENCE:0
+SUMMARY:Jacob Fox (Stanford): Subset sums, completeness and colorings
+TRANSP:OPAQUE
+UID:seminar061900
+END:VEVENT
+
 END:VCALENDAR

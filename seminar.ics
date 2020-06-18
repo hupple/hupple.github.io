@@ -18,11 +18,11 @@ END:VTIMEZONE
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200521T043040Z
-DESCRIPTION:https://zoom.com.cn/j/92368341744\nPassword: 061801\nAbstract: Suppose that Y_1, …, Y_N are i.i.d. (independent identically distributed) random variables and let X = Y_1 + … + Y_N. The classical theory of large deviations allows one to accurately estimate the probability of the tail events X < (1-c)E[X] and X > (1+c)E[X] for any positive c. However, the methods involved strongly rely on the fact that X is a linear function of the independent variables Y_1, …, Y_N. There has been considerable interest—both theoretical and practical—in developing tools for estimating such tail probabilities also when X is a nonlinear function of the Y_i. One archetypal example studied by both the combinatorics and the probability communities is when X is the number of triangles in the binomial random graph G(n,p).\nTalk II: We will present a complete solution to the upper tail problem for triangle counts in G(n,p) that was obtained recently in a joint work with Matan Harel and Frank Mousset.
+DESCRIPTION:https://zoom.com.cn/j/93815617744\nPassword: 061801\nAbstract: Suppose that Y_1, …, Y_N are i.i.d. (independent identically distributed) random variables and let X = Y_1 + … + Y_N. The classical theory of large deviations allows one to accurately estimate the probability of the tail events X < (1-c)E[X] and X > (1+c)E[X] for any positive c. However, the methods involved strongly rely on the fact that X is a linear function of the independent variables Y_1, …, Y_N. There has been considerable interest—both theoretical and practical—in developing tools for estimating such tail probabilities also when X is a nonlinear function of the Y_i. One archetypal example studied by both the combinatorics and the probability communities is when X is the number of triangles in the binomial random graph G(n,p).\nTalk II: We will present a complete solution to the upper tail problem for triangle counts in G(n,p) that was obtained recently in a joint work with Matan Harel and Frank Mousset.
 DTEND;TZID="China Standard Time":20200618T160000
 DTSTAMP:20200514T043508Z
 DTSTART;TZID="China Standard Time":20200618T150000
-LAST-MODIFIED:20200606T053540Z
+LAST-MODIFIED:20200616T053540Z
 PRIORITY:8
 SEQUENCE:0
 SUMMARY:Wojciech Samotij (Tel Aviv): Large deviations of triangle counts in the binomial random graph II

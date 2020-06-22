@@ -18,82 +18,66 @@ END:VTIMEZONE
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200521T043040Z
-DESCRIPTION:https://zoom.com.cn/j/93815617744\nPassword: 061801\nAbstract: Suppose that Y_1, …, Y_N are i.i.d. (independent identically distributed) random variables and let X = Y_1 + … + Y_N. The classical theory of large deviations allows one to accurately estimate the probability of the tail events X < (1-c)E[X] and X > (1+c)E[X] for any positive c. However, the methods involved strongly rely on the fact that X is a linear function of the independent variables Y_1, …, Y_N. There has been considerable interest—both theoretical and practical—in developing tools for estimating such tail probabilities also when X is a nonlinear function of the Y_i. One archetypal example studied by both the combinatorics and the probability communities is when X is the number of triangles in the binomial random graph G(n,p).\nTalk II: We will present a complete solution to the upper tail problem for triangle counts in G(n,p) that was obtained recently in a joint work with Matan Harel and Frank Mousset.
-DTEND;TZID="China Standard Time":20200618T160000
+DESCRIPTION:https://zoom.com.cn/j/96786380622\nPassword: 016801\nAbstract: In recent decades, independent sets in the discrete hypercube has received a lot of attention from many notable researchers.The classical result of Korshunov and Sapozhenko in 1983 counts the number of independent sets in the hypercube, and then shows that typical independent sets are not far from the trivial construction.For an odd integer n=2d-1, let \mathcal{B}(n, d) be the subgraph of the hypercube induced by the two largest layers. Our new results describe the typical structure of independent sets in \mathcal{B}(n, d) and also give precise asymptotics on the number of them. The proofs use Sapozhenko's graph container lemma, and a recently developed method of Jenssen and Perkins, which combines Sapozhenko's graph container lemma with a classcal tool from statistical physics, the cluster expansion for polymer models.\nThis is a joint work with Jozsef Balogh and Ramon I. Garcia.
+DTEND;TZID="China Standard Time":20200625T110000
 DTSTAMP:20200514T043508Z
-DTSTART;TZID="China Standard Time":20200618T150000
+DTSTART;TZID="China Standard Time":20200625T100000
 LAST-MODIFIED:20200616T053540Z
 PRIORITY:8
 SEQUENCE:0
-SUMMARY:Wojciech Samotij (Tel Aviv): Large deviations of triangle counts in the binomial random graph II
+SUMMARY:Lina Li (Illinois): Independent sets in middle two layers of Boolean lattice
 LOCATION:SCMS Combinatorics Seminar
 TRANSP:OPAQUE
-UID:seminar061815
+UID:seminar062510
 END:VEVENT
 
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200526T053040Z
-DESCRIPTION:https://cesnet.zoom.us/j/98822033687\nPassword: 23571113\nAbstract: A classical result of Galai asserts that the vertex-set of every graph can be partitioned into two sets such that each induces a graph with all degrees even. Scott studied the (harder) problem of determining for which graphs can we find a partition into arbitrary many parts, each of which induces a graph with all odd degrees.\nIn this talk we discuss various extensions of this problem to arbitrary residues mod q>2. Among other results, we show that for every q, a typical graph G(n,1/2) can be equipartitioned (up to divisibility conditions) into q+1 sets, each of which spans a graph with a prescribed degree sequence.\nSwitching to a completely unrelated problem: based on idea of the main key lemma of the above results, we give non-trivial bound (but weaker than known results) on the singularity probabbility of a random symmetric Bernoulli matrix. The new argument avoids both decoupling and distance from random hyperplanes and it turns this problem into a simple and elegant exercise.\nThe first part of the talk is based on a joint work with Liam Hardiman (UCI) and Michael Krivelevich (Tel Aviv University).
-DTEND;TZID="China Standard Time":20200615T220000
+DESCRIPTION:https://cesnet.zoom.us/j/97492220523\nPassword: 23571113\nAbstract: There are many impressive results asserting that the chromatic number of a random graph is sharply concentrated. In 1987, Shamir and Spencer showed that for any function p=p(n), the chromatic number of G(n,p) takes one of at most about n^(1/2) consecutive values whp. For sparse random graphs, much sharper concentration is known to hold: Alon and Krivelevich proved two point concentration whenever p < n^(-1/2-epsilon).\nHowever, until recently no non-trivial lower bounds for the concentration were known for any p, even though the question was raised prominently by Erdős in 1992 and Bollobás in 2004.\nIn this talk, we show that the chromatic number of G(n, 1/2) is not whp contained in any sequence of intervals of length n^(1/2-o(1)), almost matching Shamir and Spencer's upper bound.\nJoint work with Oliver Riordan.
+DTEND;TZID="China Standard Time":20200622T220000
 DTSTAMP:20200527T053508Z
-DTSTART;TZID="China Standard Time":20200615T210000
+DTSTART;TZID="China Standard Time":20200622T210000
 LAST-MODIFIED:20200529T035240Z
 PRIORITY:8
 SEQUENCE:0
 LOCATION:Extremal and Probabilistic Combinatorics Webinar
-SUMMARY:Asaf Ferber (UC Irvine): Induced subgraphs with prescribed degrees mod q
+SUMMARY:Annika Heckel (LMU Munich): Non-concentration of the chromatic number
 TRANSP:OPAQUE
-UID:seminar061521
+UID:seminar062221
 END:VEVENT
 
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200526T053040Z
-DESCRIPTION:Zoom Meeting ID: 830 9689 8964\nhttps://us02web.zoom.us/j/83096898964\nPassword: WC2020\nA conjecture of Erdős from 1967 asserts that any graph on $n$ vertices which does not contain a fixed $r$-degenerate bipartite graph $F$ has at most $Cn^{2−1/r}$ edges, where $C$ is a constant depending only on $F$. We show that this bound holds for a large family of $r$-degenerate bipartite graphs, including all $r$-degenerate blow-ups of trees. Our results generalize many previously proven cases of the Erdős conjecture, including the related results of Furedi and Alon, Krivelevich and Sudakov. Joint work with Oliver Janzer and Zoltán Lóránt Nagy.
-DTEND;TZID="China Standard Time":20200617T220000
+DESCRIPTION:Zoom Meeting ID: 830 9689 8964\nhttps://us02web.zoom.us/j/83096898964\nPassword: WC2020\nGiven two non-negative integers n and s, define m(n,s) to be the maximal number such that in every hypergraph H on n vertices and with at most m(n,s) edges there is a vertex x such that |Hx|≥|E(H)|−s, where Hx={H∖{x}:H∈E(H)}.\nThis problem has been posed by Füredi and Pach and by Frankl and Tokushige. While the first results were only for specific small values of s, Frankl determined m(n,2d−1−1) for all d with d∣n. Subsequently, the goal became to determine m(n,2d−1−c) for larger c. Frankl and Watanabe determined m(n,2d−1−c) for c∈{0,2} and d∣n. Other general results are not known so far.\nOur main result sheds light on what happens further away from powers of two: We prove that m(n,2d−1−c)=nd(2d−c) for d≥4c and d∣n and give an example showing that this formula does not hold for c=d+1. The other line of research on this problem is to determine m(n,s) for small values of s. Our second result determines m(n,2d−1−c) for c∈{3,4} for all d with d∣n. This solves more instances of the problem for small s and in particular solves a conjecture by Frankl and Watanabe.\nThis is joint work with Simón Piga.
+DTEND;TZID="China Standard Time":20200624T220000
 DTSTAMP:20200527T055508Z
-DTSTART;TZID="China Standard Time":20200617T210000
+DTSTART;TZID="China Standard Time":20200624T210000
 LOCATION:Warwick Combinatorics Seminar
 LAST-MODIFIED:20200529T070140Z
 PRIORITY:8
 SEQUENCE:0
-SUMMARY:Andrzej Grzesik (Jagiellonian): The Turán number of blow-ups of trees
+SUMMARY:Bjarne Schülke (Hamburg): Extremal problems concerning the traces of sets
 TRANSP:OPAQUE
-UID:seminar061721
+UID:seminar062421
 END:VEVENT
 
 
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200606T053040Z
-DESCRIPTION:https://canterbury.zoom.us/j/92511352067\nAbstract: We define a branching process to understand the locality or otherwise of the critical percolation in the hypercube; that is, whether the local structure of the hypercube can explain the critical percolation as a function of the dimension of the hypercube.\nThe branching process mimics the local behaviour of an exploration of a percolated hypercube; it is defined recursively as follows. Start with a single individual in generation 0. On an first stage, each individual has independent Poisson offspring with mean (1+p)(1-q)k where k depends on the ancestry of the individual; on the merger stage, each pair of cousins merges with probability q.\nWe exhibit evidence of a critical merger probability qc=qc(p) for extinction of the branching process. When p is sufficiently small, the first order terms of qc coincide with those of the critical percolation for the hypercube, suggesting that percolation in the hypercube is dictated by its local structure. This is work in progress with Laura Eslava and Sarah Penington.
-DTEND;TZID="China Standard Time":20200617T160000
+DESCRIPTION:https://us02web.zoom.us/j/279059822\nPassword 141592
+DTEND;TZID="China Standard Time":20200626T010000
 DTSTAMP:20200607T055508Z
-DTSTART;TZID="China Standard Time":20200617T150000
-LOCATION:CMSA seminar
-LAST-MODIFIED:20200609T070140Z
-PRIORITY:8
-SEQUENCE:0
-SUMMARY:Fiona Skerman (Uppsala): Branching processes with merges and locality of hypercube’s critical percolation
-TRANSP:OPAQUE
-UID:seminar061715
-END:VEVENT
-
-BEGIN:VEVENT
-CLASS:PUBLIC
-CREATED:20200606T053040Z
-DESCRIPTION:https://us02web.zoom.us/j/279059822\nPassword 141592\nAbstract: We develop novel techniques which allow us to prove a diverse range of results relating to subset sums and complete sequences of positive integers, including solutions to several long standing open problems. These include: solutions to the three problems of Burr and Erdös on Ramsey complete sequences, for which Erdös later offered a combined total of 350 analogous results for the new notion of density complete sequences; the answer to a question of Alon and Erdös on the minimum number of colors needed to color the positive integers less than  so that  cannot be written as a monochromatic sum; the exact determination of an extremal function introduced by Erdös and Graham and first studied by Alon on sets of integers avoiding a given subset sum; and, answering a question of Tran, Vu and Wood, a common strengthening of seminal results of Szemerédi-Vu and Sárközy on long arithmetic progressions in subset sums.\nBased on joint work with David Conlon and Huy Tuan Pham.
-DTEND;TZID="China Standard Time":20200619T010000
-DTSTAMP:20200607T055508Z
-DTSTART;TZID="China Standard Time":20200619T000000
+DTSTART;TZID="China Standard Time":20200626T000000
 LOCATION:MIPT, Moscow, Big Seminar
 LAST-MODIFIED:20200611T070140Z
 PRIORITY:8
 SEQUENCE:0
-SUMMARY:Jacob Fox (Stanford): Subset sums, completeness and colorings
+SUMMARY:Alexander Razborov (University of Chicago): TBA
 TRANSP:OPAQUE
-UID:seminar061900
+UID:seminar062600
 END:VEVENT
 
 END:VCALENDAR

@@ -72,10 +72,10 @@ DTEND;TZID="China Standard Time":20200626T010000
 DTSTAMP:20200607T055508Z
 DTSTART;TZID="China Standard Time":20200626T000000
 LOCATION:MIPT, Moscow, Big Seminar
-LAST-MODIFIED:20200611T070140Z
+LAST-MODIFIED:20200620T070140Z
 PRIORITY:8
 SEQUENCE:0
-SUMMARY:Alexander Razborov (University of Chicago): TBA
+SUMMARY:Alexander Razborov (University of Chicago): Limits of dense combinatorial objects
 TRANSP:OPAQUE
 UID:seminar062600
 END:VEVENT

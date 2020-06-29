@@ -18,49 +18,50 @@ END:VTIMEZONE
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200521T043040Z
-DESCRIPTION:https://zoom.com.cn/j/96786380622\nPassword: 016801\nAbstract: In recent decades, independent sets in the discrete hypercube has received a lot of attention from many notable researchers.The classical result of Korshunov and Sapozhenko in 1983 counts the number of independent sets in the hypercube, and then shows that typical independent sets are not far from the trivial construction.For an odd integer n=2d-1, let \mathcal{B}(n, d) be the subgraph of the hypercube induced by the two largest layers. Our new results describe the typical structure of independent sets in \mathcal{B}(n, d) and also give precise asymptotics on the number of them. The proofs use Sapozhenko's graph container lemma, and a recently developed method of Jenssen and Perkins, which combines Sapozhenko's graph container lemma with a classcal tool from statistical physics, the cluster expansion for polymer models.\nThis is a joint work with Jozsef Balogh and Ramon I. Garcia.
-DTEND;TZID="China Standard Time":20200625T110000
+DESCRIPTION:https://zoom.com.cn/j/92027452557\nPassword 121323
+DTEND;TZID="China Standard Time":20200702T117000
 DTSTAMP:20200514T043508Z
-DTSTART;TZID="China Standard Time":20200625T100000
+DTSTART;TZID="China Standard Time":20200702T160000
 LAST-MODIFIED:20200616T053540Z
 PRIORITY:8
 SEQUENCE:0
-SUMMARY:Lina Li (Illinois): Independent sets in middle two layers of Boolean lattice
+SUMMARY:Bojan Mohar (Simon Fraser): Can the genus of a graph be approximated?
 LOCATION:SCMS Combinatorics Seminar
 TRANSP:OPAQUE
-UID:seminar062510
+UID:seminar070216
 END:VEVENT
 
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200526T053040Z
-DESCRIPTION:https://cesnet.zoom.us/j/97492220523\nPassword: 23571113\nAbstract: There are many impressive results asserting that the chromatic number of a random graph is sharply concentrated. In 1987, Shamir and Spencer showed that for any function p=p(n), the chromatic number of G(n,p) takes one of at most about n^(1/2) consecutive values whp. For sparse random graphs, much sharper concentration is known to hold: Alon and Krivelevich proved two point concentration whenever p < n^(-1/2-epsilon).\nHowever, until recently no non-trivial lower bounds for the concentration were known for any p, even though the question was raised prominently by Erdős in 1992 and Bollobás in 2004.\nIn this talk, we show that the chromatic number of G(n, 1/2) is not whp contained in any sequence of intervals of length n^(1/2-o(1)), almost matching Shamir and Spencer's upper bound.\nJoint work with Oliver Riordan.
-DTEND;TZID="China Standard Time":20200622T220000
+DESCRIPTION:https://cesnet.zoom.us/j/96088464340\nPassword: 23571113\nAbstract: A celebrated theorem of Vizing says that every graph G of maximum degree Δ is (Δ+1)-edge-colorable. In this talk I will describe a deterministic distributed algorithm in the LOCAL model that finds a (Δ+1)-edge-coloring in the number of rounds that is polynomial in Δ and log(n), where n is the number of vertices of G. This is the first distributed algorithm for (Δ + 1)-edge-coloring with running time better than O(diameter(G)).
+DTEND;TZID="China Standard Time":20200629T220000
 DTSTAMP:20200527T053508Z
-DTSTART;TZID="China Standard Time":20200622T210000
+DTSTART;TZID="China Standard Time":20200629T210000
 LAST-MODIFIED:20200529T035240Z
 PRIORITY:8
 SEQUENCE:0
 LOCATION:Extremal and Probabilistic Combinatorics Webinar
-SUMMARY:Annika Heckel (LMU Munich): Non-concentration of the chromatic number
+SUMMARY:Anton Bernshteyn (CMU): A fast distributed algorithm for (Δ + 1)-edge-coloring
 TRANSP:OPAQUE
-UID:seminar062221
+UID:seminar062921
 END:VEVENT
 
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200526T053040Z
-DESCRIPTION:Zoom Meeting ID: 830 9689 8964\nhttps://us02web.zoom.us/j/83096898964\nPassword: WC2020\nGiven two non-negative integers n and s, define m(n,s) to be the maximal number such that in every hypergraph H on n vertices and with at most m(n,s) edges there is a vertex x such that |Hx|≥|E(H)|−s, where Hx={H∖{x}:H∈E(H)}.\nThis problem has been posed by Füredi and Pach and by Frankl and Tokushige. While the first results were only for specific small values of s, Frankl determined m(n,2d−1−1) for all d with d∣n. Subsequently, the goal became to determine m(n,2d−1−c) for larger c. Frankl and Watanabe determined m(n,2d−1−c) for c∈{0,2} and d∣n. Other general results are not known so far.\nOur main result sheds light on what happens further away from powers of two: We prove that m(n,2d−1−c)=nd(2d−c) for d≥4c and d∣n and give an example showing that this formula does not hold for c=d+1. The other line of research on this problem is to determine m(n,s) for small values of s. Our second result determines m(n,2d−1−c) for c∈{3,4} for all d with d∣n. This solves more instances of the problem for small s and in particular solves a conjecture by Frankl and Watanabe.\nThis is joint work with Simón Piga.
-DTEND;TZID="China Standard Time":20200624T220000
+DESCRIPTION:https://unsw.zoom.us/j/99740631801?pwd=Kzg1dDdpc0lrNmh2UytQWmZLQUF4UT09\nThe Turán number of a (hyper)graph H, defined as the maximum number of (hyper)edges in an H-free (hyper)graph on a given number of vertices, is a fundamental concept of extremal combinatorics. The behaviour of the Turán number is well-understood for non-bipartite graphs, but for bipartite H there are more questions than answers. A particularly intriguing half-open case is the one of complete bipartite graphs.\nThe projective norm graphs NG(q,t) are algebraically defined graphs which provide tight constructions in the Turán problem for complete bipartite graphs H=Kt,s when s>(t–1)!. The Kt,s-freeness of NG(q,t) is a very much atypical property: in a random graph with the same edge density a positive fraction of t-tuples are involved in a copy of Kt,s. Yet, projective norm graphs are random-like in various other senses. Most notably their second eigenvalue is of the order of the square root of the degree, which, through the Expander Mixing Lemma, implies further quasirandom properties concerning the density of small enough subgraphs. In this talk we explore how far this quasirandomness goes. The main contribution of our proof is the estimation, and sometimes determination, of the number of solutions of certain norm equation system over finite fields.
+Joint work with Tomas Bayer, Tamás Mészáros, and Lajos Rónyai.
+DTEND;TZID="China Standard Time":20200701T160000
 DTSTAMP:20200527T055508Z
-DTSTART;TZID="China Standard Time":20200624T210000
-LOCATION:Warwick Combinatorics Seminar
+DTSTART;TZID="China Standard Time":20200701T150000
+LOCATION:CMSA seminar
 LAST-MODIFIED:20200529T070140Z
 PRIORITY:8
 SEQUENCE:0
-SUMMARY:Bjarne Schülke (Hamburg): Extremal problems concerning the traces of sets
+SUMMARY:Tibor Szabó (Berlin): Turán numbers, norm graphs, quasirandomness
 TRANSP:OPAQUE
-UID:seminar062421
+UID:seminar070115
 END:VEVENT
 
 
@@ -68,16 +69,16 @@ BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200606T053040Z
 DESCRIPTION:https://us02web.zoom.us/j/279059822\nPassword 141592
-DTEND;TZID="China Standard Time":20200626T010000
+DTEND;TZID="China Standard Time":20200703T010000
 DTSTAMP:20200607T055508Z
-DTSTART;TZID="China Standard Time":20200626T000000
+DTSTART;TZID="China Standard Time":20200703T000000
 LOCATION:MIPT, Moscow, Big Seminar
 LAST-MODIFIED:20200620T070140Z
 PRIORITY:8
 SEQUENCE:0
-SUMMARY:Alexander Razborov (University of Chicago): Limits of dense combinatorial objects
+SUMMARY:Jozsef Balogh (Illinois): TBA
 TRANSP:OPAQUE
-UID:seminar062600
+UID:seminar070300
 END:VEVENT
 
 END:VCALENDAR

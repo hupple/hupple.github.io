@@ -18,50 +18,33 @@ END:VTIMEZONE
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200521T043040Z
-DESCRIPTION:https://zoom.com.cn/j/92027452557\nPassword 121323
-DTEND;TZID="China Standard Time":20200702T117000
+DESCRIPTION:https://zoom.com.cn/j/94081170971\nPassword 061801
+DTEND;TZID="China Standard Time":20200709T110000
 DTSTAMP:20200514T043508Z
-DTSTART;TZID="China Standard Time":20200702T160000
+DTSTART;TZID="China Standard Time":20200709T100000
 LAST-MODIFIED:20200616T053540Z
 PRIORITY:8
 SEQUENCE:0
-SUMMARY:Bojan Mohar (Simon Fraser): Can the genus of a graph be approximated?
+SUMMARY:Yifan Jing (Illinois):Structures of sets with minimum measure growth
 LOCATION:SCMS Combinatorics Seminar
 TRANSP:OPAQUE
-UID:seminar070216
+UID:seminar070910
 END:VEVENT
 
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200526T053040Z
-DESCRIPTION:https://cesnet.zoom.us/j/96088464340\nPassword: 23571113\nAbstract: A celebrated theorem of Vizing says that every graph G of maximum degree Δ is (Δ+1)-edge-colorable. In this talk I will describe a deterministic distributed algorithm in the LOCAL model that finds a (Δ+1)-edge-coloring in the number of rounds that is polynomial in Δ and log(n), where n is the number of vertices of G. This is the first distributed algorithm for (Δ + 1)-edge-coloring with running time better than O(diameter(G)).
-DTEND;TZID="China Standard Time":20200629T220000
+DESCRIPTION:https://cesnet.zoom.us/j/91262539102\nPassword: 23571113\nAbstract: Mantel’s theorem is a basic classical theorem of extremal graph theory. There are many different extensions and  generalizations  investigated and many open questions remained. I will talk about three recent results, including `stability’ and `supersaturation’ properties. The results are partly joined with Clemen, Katona, Lidicky, Linz, Pfender and Tuza.
+DTEND;TZID="China Standard Time":20200706T220000
 DTSTAMP:20200527T053508Z
-DTSTART;TZID="China Standard Time":20200629T210000
+DTSTART;TZID="China Standard Time":20200706T210000
 LAST-MODIFIED:20200529T035240Z
 PRIORITY:8
 SEQUENCE:0
 LOCATION:Extremal and Probabilistic Combinatorics Webinar
-SUMMARY:Anton Bernshteyn (CMU): A fast distributed algorithm for (Δ + 1)-edge-coloring
+SUMMARY:József Balogh (Illinois): Extensions of Mantel’s theorem
 TRANSP:OPAQUE
-UID:seminar062921
-END:VEVENT
-
-BEGIN:VEVENT
-CLASS:PUBLIC
-CREATED:20200526T053040Z
-DESCRIPTION:https://unsw.zoom.us/j/99740631801?pwd=Kzg1dDdpc0lrNmh2UytQWmZLQUF4UT09\nThe Turán number of a (hyper)graph H, defined as the maximum number of (hyper)edges in an H-free (hyper)graph on a given number of vertices, is a fundamental concept of extremal combinatorics. The behaviour of the Turán number is well-understood for non-bipartite graphs, but for bipartite H there are more questions than answers. A particularly intriguing half-open case is the one of complete bipartite graphs.\nThe projective norm graphs NG(q,t) are algebraically defined graphs which provide tight constructions in the Turán problem for complete bipartite graphs H=Kt,s when s>(t–1)!. The Kt,s-freeness of NG(q,t) is a very much atypical property: in a random graph with the same edge density a positive fraction of t-tuples are involved in a copy of Kt,s. Yet, projective norm graphs are random-like in various other senses. Most notably their second eigenvalue is of the order of the square root of the degree, which, through the Expander Mixing Lemma, implies further quasirandom properties concerning the density of small enough subgraphs. In this talk we explore how far this quasirandomness goes. The main contribution of our proof is the estimation, and sometimes determination, of the number of solutions of certain norm equation system over finite fields.
-Joint work with Tomas Bayer, Tamás Mészáros, and Lajos Rónyai.
-DTEND;TZID="China Standard Time":20200701T160000
-DTSTAMP:20200527T055508Z
-DTSTART;TZID="China Standard Time":20200701T150000
-LOCATION:CMSA seminar
-LAST-MODIFIED:20200529T070140Z
-PRIORITY:8
-SEQUENCE:0
-SUMMARY:Tibor Szabó (Berlin): Turán numbers, norm graphs, quasirandomness
-TRANSP:OPAQUE
-UID:seminar070115
+UID:seminar070621
 END:VEVENT
 
 
@@ -76,7 +59,8 @@ LOCATION:MIPT, Moscow, Big Seminar
 LAST-MODIFIED:20200621T070140Z
 PRIORITY:8
 SEQUENCE:0
-SUMMARY:Jozsef Balogh (Illinois): Independent sets in regular graphs
+SUMMARY:Fedor Petrov (Steklov Math. Inst.):List colorings of direct products
+
 TRANSP:OPAQUE
 UID:seminar070300
 END:VEVENT

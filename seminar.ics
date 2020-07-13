@@ -34,17 +34,17 @@ END:VEVENT
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200526T053040Z
-DESCRIPTION:https://cesnet.zoom.us/j/91262539102\nPassword: 23571113\nAbstract: Mantel’s theorem is a basic classical theorem of extremal graph theory. There are many different extensions and  generalizations  investigated and many open questions remained. I will talk about three recent results, including `stability’ and `supersaturation’ properties. The results are partly joined with Clemen, Katona, Lidicky, Linz, Pfender and Tuza.
-DTEND;TZID="China Standard Time":20200706T220000
+DESCRIPTION:https://cesnet.zoom.us/j/92884337691\nPassword: 23571113
+DTEND;TZID="China Standard Time":20200713T220000
 DTSTAMP:20200527T053508Z
-DTSTART;TZID="China Standard Time":20200706T210000
+DTSTART;TZID="China Standard Time":20200713T210000
 LAST-MODIFIED:20200529T035240Z
 PRIORITY:8
 SEQUENCE:0
 LOCATION:Extremal and Probabilistic Combinatorics Webinar
-SUMMARY:József Balogh (Illinois): Extensions of Mantel’s theorem
+SUMMARY:Matthew Kwan (Stanford): Extension complexity of low-dimensional polytopes
 TRANSP:OPAQUE
-UID:seminar070621
+UID:seminar071321
 END:VEVENT
 
 
@@ -52,16 +52,32 @@ BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200606T053040Z
 DESCRIPTION:https://us02web.zoom.us/j/279059822\nPassword 141592
-DTEND;TZID="China Standard Time":20200710T010000
+DTEND;TZID="China Standard Time":20200717T010000
 DTSTAMP:20200607T055508Z
-DTSTART;TZID="China Standard Time":20200710T000000
+DTSTART;TZID="China Standard Time":20200717T000000
 LOCATION:MIPT, Moscow, Big Seminar
 LAST-MODIFIED:20200621T070140Z
 PRIORITY:8
 SEQUENCE:0
-SUMMARY:Fedor Petrov (Steklov Math. Inst.):List colorings of direct products
+SUMMARY:Jozsef Solymosi (University of British Columbia): Directions in an affine Galois plane and the clique number of the Paley graph
 TRANSP:OPAQUE
-UID:seminar071000
+UID:seminar071700
+END:VEVENT
+
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20200606T053040Z
+DESCRIPTION:https://unsw.zoom.us/j/99740631801\nPassword COCOA-2005
+DTEND;TZID="China Standard Time":20200715T100000
+DTSTAMP:20200607T055508Z
+DTSTART;TZID="China Standard Time":20200715T090000
+LOCATION:CMSA seminar
+LAST-MODIFIED:20200621T070140Z
+PRIORITY:8
+SEQUENCE:0
+SUMMARY:Daniel Horsley (Monash): Generating digraphs with derangements
+TRANSP:OPAQUE
+UID:seminar071509
 END:VEVENT
 
 END:VCALENDAR

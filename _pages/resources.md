@@ -17,7 +17,8 @@ Online Course Given by Prof. [Jie Ma](http://staff.ustc.edu.cn/~jiema/).
   Online lecture given by [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home).
 - [**Graph Theory and Additive Combinatorics**](https://ocw.mit.edu/courses/mathematics/18-217-graph-theory-and-additive-combinatorics-fall-2019/)  
   MIT Open Course given by Prof. [Yufei Zhao](http://yufeizhao.com/), with lecture videos on [MIT OCW](https://ocw.mit.edu/courses/mathematics/18-217-graph-theory-and-additive-combinatorics-fall-2019/video-lectures/), [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX) and [BiliBili](https://space.bilibili.com/556006423/channel/detail?cid=127140).
-
+- [**SCMS Combinatorics Seminar**](https://scmscomb.github.io/)   
+  Online Semianr organized by [Hehui Wu](http://www.scms.fudan.edu.cn/Data/View/432.html), Qiqin Xie and me, with talks on [BiliBili](https://space.bilibili.com/556006423/channel/detail?cid=133341).
 
   
 

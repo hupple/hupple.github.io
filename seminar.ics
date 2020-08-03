@@ -19,83 +19,34 @@ END:VTIMEZONE
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200526T053040Z
-DESCRIPTION:https://cesnet.zoom.us/j/94551973609\nPassword: 23571113
-DTEND;TZID="China Standard Time":20200727T230000
+DESCRIPTION:https://cesnet.zoom.us/j/93946995498\nPassword: 23571113
+DTEND;TZID="China Standard Time":20200803T230000
 DTSTAMP:20200527T053508Z
-DTSTART;TZID="China Standard Time":20200727T220000
+DTSTART;TZID="China Standard Time":20200803T220000
 LAST-MODIFIED:20200719T055240Z
 PRIORITY:8
 SEQUENCE:0
 LOCATION:Extremal and Probabilistic Combinatorics Webinar
-SUMMARY:Oleg Pikhurko (Warwick): Combinatorics of circle squaring
+SUMMARY:Boris Bukh (CMU): Convex holes in high-dimensional point sets
 TRANSP:OPAQUE
-UID:seminar072722
-END:VEVENT
-
-BEGIN:VEVENT
-CLASS:PUBLIC
-CREATED:20200606T053040Z
-DESCRIPTION:https://unsw.zoom.us/j/99740631801?pwd=Kzg1dDdpc0lrNmh2UytQWmZLQUF4UT09
-DTEND;TZID="China Standard Time":20200729T160000
-DTSTAMP:20200607T055508Z
-DTSTART;TZID="China Standard Time":20200729T150000
-LOCATION:CMSA seminar
-LAST-MODIFIED:20200711T070140Z
-PRIORITY:8
-SEQUENCE:0
-SUMMARY:Annika Heckel (Munich): Non-concentration of the chromatic number
-TRANSP:OPAQUE
-UID:seminar072915
+UID:seminar080322
 END:VEVENT
 
 
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200621T043040Z
-DESCRIPTION:https://zoom.com.cn/j/69543766775\nPassword 122331
-DTEND;TZID="China Standard Time":20200730T160000
+DESCRIPTION:https://zoom.com.cn/j/66882417285\nPassword 111317
+DTEND;TZID="China Standard Time":20200806T110000
 DTSTAMP:20200514T043508Z
-DTSTART;TZID="China Standard Time":20200730T150000
+DTSTART;TZID="China Standard Time":20200806T100000
 LAST-MODIFIED:20200716T053540Z
 PRIORITY:8
 SEQUENCE:0
-SUMMARY:Patrice Ossona de Mendz (CNRS/EHESS): A model theoretic approach to sparsity II
+SUMMARY:Yufei Zhao (MIT): Equiangular lines, spherical two-distance sets, and spectral graph theory
 LOCATION:SCMS Combinatorics Seminar
 TRANSP:OPAQUE
-UID:seminar073015
-END:VEVENT
-
-
-BEGIN:VEVENT
-CLASS:PUBLIC
-CREATED:20200621T043040Z
-DESCRIPTION:https://www0.tu-ilmenau.de/combinatoricsworkshop/timetable/event/the-extremal-function-for-sparse-minors/
-DTEND;TZID="China Standard Time":20200728T213000
-DTSTAMP:20200514T043508Z
-DTSTART;TZID="China Standard Time":20200728T200000
-LAST-MODIFIED:20200716T053540Z
-PRIORITY:8
-SEQUENCE:0
-SUMMARY:Andrew Thomason (Cambridge): The extremal function for sparse minors
-LOCATION:Workshop on graph theory and combinatorics in Thuringia
-TRANSP:OPAQUE
-UID:seminar072820
-END:VEVENT
-
-BEGIN:VEVENT
-CLASS:PUBLIC
-CREATED:20200621T043040Z
-DESCRIPTION:https://www0.tu-ilmenau.de/combinatoricsworkshop/timetable/event/on-vizings-edge-colouring-question/ 
-DTEND;TZID="China Standard Time":20200728T230000
-DTSTAMP:20200514T043508Z
-DTSTART;TZID="China Standard Time":20200728T213000
-LAST-MODIFIED:20200716T053540Z
-PRIORITY:8
-SEQUENCE:0
-SUMMARY:Marthe Bonamy (Bordeaux): On Vizing's edge-colouring question
-LOCATION:Workshop on graph theory and combinatorics in Thuringia
-TRANSP:OPAQUE
-UID:seminar072821
+UID:seminar080610
 END:VEVENT
 
 

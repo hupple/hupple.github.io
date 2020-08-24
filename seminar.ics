@@ -19,67 +19,67 @@ END:VTIMEZONE
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200526T053040Z
-DESCRIPTION:https://cesnet.zoom.us/j/92387722094\nPassword: 23571113
-DTEND;TZID="China Standard Time":20200817T230000
+DESCRIPTION:https://cesnet.zoom.us/j/92565929824\nPassword: 23571113
+DTEND;TZID="China Standard Time":20200824T230000
 DTSTAMP:20200527T053508Z
-DTSTART;TZID="China Standard Time":20200817T220000
+DTSTART;TZID="China Standard Time":20200824T220000
 LAST-MODIFIED:20200719T055240Z
 PRIORITY:8
 SEQUENCE:0
 LOCATION:Extremal and Probabilistic Combinatorics Webinar
-SUMMARY:Mehtaab Sawhney (MIT): Local limit theorems for subgraph counts
+SUMMARY:Jan Grebik (Warwick): Large deviation principle for graphons
 TRANSP:OPAQUE
-UID:seminar081722
+UID:seminar082422
 END:VEVENT
 
 
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200621T043040Z
-DESCRIPTION:https://zoom.com.cn/j/66310294149\nPassword 111317
-DTEND;TZID="China Standard Time":20200820T170000
+DESCRIPTION:https://zoom.com.cn/j/68309816533\nPassword 121323
+DTEND;TZID="China Standard Time":20200827T160000
 DTSTAMP:20200514T043508Z
-DTSTART;TZID="China Standard Time":20200820T160000
+DTSTART;TZID="China Standard Time":20200827T150000
 LAST-MODIFIED:20200716T053540Z
 PRIORITY:8
 SEQUENCE:0
-SUMMARY:Oliver Janzer (Cambridge): Rainbow Turán number of even cycles
+SUMMARY:Kevin Hendrey (IBS): Counting cliques in 1-planar graphs
 LOCATION:SCMS Combinatorics Seminar
 TRANSP:OPAQUE
-UID:seminar082016
+UID:seminar082715
 END:VEVENT
 
 
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200606T053040Z
-DESCRIPTION:https://canterbury.zoom.us/j/92511352067\nPassword COCOA-2005
-DTEND;TZID="China Standard Time":20200819T100000
+DESCRIPTION:https://canterbury.zoom.us/j/99740631801\nPassword COCOA-2005
+DTEND;TZID="China Standard Time":20200826T100000
 DTSTAMP:20200607T055508Z
-DTSTART;TZID="China Standard Time":20200819T090000
+DTSTART;TZID="China Standard Time":20200826T090000
 LOCATION:CMSA seminar
 LAST-MODIFIED:20200711T070140Z
 PRIORITY:8
 SEQUENCE:0
-SUMMARY:Tamás Makai (Royal Holloway Coll.): Majority dynamics in the dense binomial random graph''
+SUMMARY:Tuan Tran (Hanoi UST.): Singularity of random combinatorial matrices
 TRANSP:OPAQUE
-UID:seminar081909
+UID:seminar082609
 END:VEVENT
 
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200606T053040Z
-DESCRIPTION:https://zoom.us/j/98790124391?pwd=czhXL3hBYnNxWEhQd1pKRTZ3SERpdz09, password is ibsmath.
-DTEND;TZID="China Standard Time":20200819T163000
+DESCRIPTION:https://zoom.us/j/96099411014?pwd=WGtwOVE0WlFuaEJtcHlXaHNxc3hGZz09, password is ibsmath.
+DTEND;TZID="China Standard Time":20200826T103000
 DTSTAMP:20200607T055508Z
-DTSTART;TZID="China Standard Time":20200819T153000
+DTSTART;TZID="China Standard Time":20200826T093000
 LOCATION:IBS virtual discrete math colloquium
 LAST-MODIFIED:20200711T070140Z
 PRIORITY:8
 SEQUENCE:0
-SUMMARY:Gwenaël Joret (Bruxelles): Packing and covering balls in graphs excluding a minor
+SUMMARY:Nick Brettell (Victoria): On the graph width parameter mim-width
 TRANSP:OPAQUE
-UID:seminar081915
+UID:seminar082609
 END:VEVENT
 
 

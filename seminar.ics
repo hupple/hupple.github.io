@@ -19,50 +19,50 @@ END:VTIMEZONE
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200526T053040Z
-DESCRIPTION:https://cesnet.zoom.us/j/92565929824\nPassword: 23571113
-DTEND;TZID="China Standard Time":20200831T230000
+DESCRIPTION:https://cesnet.zoom.us/j/95825245145\nPassword: 23571113
+DTEND;TZID="China Standard Time":20200907T230000
 DTSTAMP:20200527T053508Z
-DTSTART;TZID="China Standard Time":20200831T220000
+DTSTART;TZID="China Standard Time":20200907T220000
 LAST-MODIFIED:20200819T055240Z
 PRIORITY:8
 SEQUENCE:0
 LOCATION:Extremal and Probabilistic Combinatorics Webinar
-SUMMARY:Tao Jiang (Miami): On Turán exponents of graphs
+SUMMARY:Guillem Perarnau (U. Catalunya):Extremal stationary values for directed random graphs
 TRANSP:OPAQUE
-UID:seminar083122
+UID:seminar090722
 END:VEVENT
 
 
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200621T043040Z
-DESCRIPTION:https://zoom.com.cn/j/66232484143\nPassword 121323
-DTEND;TZID="China Standard Time":20200903T160000
+DESCRIPTION:https://zoom.com.cn/j/66414740654\nPassword 121323
+DTEND;TZID="China Standard Time":20200910T160000
 DTSTAMP:20200514T043508Z
-DTSTART;TZID="China Standard Time":20200903T150000
+DTSTART;TZID="China Standard Time":20200910T150000
 LAST-MODIFIED:20200816T053540Z
 PRIORITY:8
 SEQUENCE:0
-SUMMARY:Hongliang Lu (XJTU): Co-degree condition for matchings in k-partite k-graphs
+SUMMARY:Jaehoon Kim (KAIST):Extremal density for sparse minors and subdivisions
 LOCATION:SCMS Combinatorics Seminar
 TRANSP:OPAQUE
-UID:seminar090315
+UID:seminar091015
 END:VEVENT
 
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200606T053040Z
 DESCRIPTION:https://us02web.zoom.us/j/279059822, password is 141592
-DTEND;TZID="China Standard Time":20200904T013000
+DTEND;TZID="China Standard Time":20200911T013000
 DTSTAMP:20200707T055508Z
-DTSTART;TZID="China Standard Time":20200904T000000
+DTSTART;TZID="China Standard Time":20200911T000000
 LOCATION:Big Seminar, MIPT, Moscow
 LAST-MODIFIED:20200821T070140Z
 PRIORITY:8
 SEQUENCE:0
-SUMMARY:Zoltan Furedi (Budapest and UIUC): A useful tool in combinatorics: Intersecting set-pair systems
+SUMMARY:Lutz Warnke (Georgia Tech):Counting extensions in random graphssystems
 TRANSP:OPAQUE
-UID:seminar09040000
+UID:seminar09110000
 END:VEVENT
 
 

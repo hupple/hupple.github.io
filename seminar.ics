@@ -19,33 +19,49 @@ END:VTIMEZONE
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200526T053040Z
-DESCRIPTION:https://cesnet.zoom.us/j/91070457636\nPassword: 23571113
-DTEND;TZID="China Standard Time":20200921T230000
+DESCRIPTION:https://cesnet.zoom.us/j/95820171257\nPassword: 23571113
+DTEND;TZID="China Standard Time":20201005T230000
 DTSTAMP:20200527T053508Z
-DTSTART;TZID="China Standard Time":20200921T220000
+DTSTART;TZID="China Standard Time":20201005T220000
 LAST-MODIFIED:20200829T055240Z
 PRIORITY:8
 SEQUENCE:0
 LOCATION:Extremal and Probabilistic Combinatorics Webinar
-SUMMARY:Jonathan Noel (U. Victoria): Non-bipartite k-common graphs
+SUMMARY:Richard Montgomery (Birmingham), A solution to Erdős and Hajnal's odd cycle problem
 TRANSP:OPAQUE
-UID:seminar092122
+UID:seminar100522
 END:VEVENT
 
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200621T043040Z
-DESCRIPTION:https://emory.zoom.us/j/96323787117\nPassword emory1836
-DTEND;TZID="China Standard Time":20201002T230000
+DESCRIPTION:https://theias.zoom.us/j/91888688395?pwd=TTlVY3Q0YlJjVnVDMGUrd1k4SUZUdz09\nPassword 575008
+DTEND;TZID="China Standard Time":20201006T001500
 DTSTAMP:20200514T043508Z
-DTSTART;TZID="China Standard Time":20201002T220000
+DTSTART;TZID="China Standard Time":20201005T231500
 LAST-MODIFIED:20200826T053540Z
 PRIORITY:8
 SEQUENCE:0
-SUMMARY:Istvan Tomon (ETH Zurich):The extremal number of tight cycles
-LOCATION:Emory Combinatorics Seminar
+SUMMARY:Noga Alon (Princeton), Splitting necklaces: existence, hardness and approximation
+LOCATION:IAS CS/discrete math seminar
 TRANSP:OPAQUE
-UID:seminar100222
+UID:seminar100523
+END:VEVENT
+
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20200621T043040Z
+DESCRIPTION:https://zoom.com.cn/j/64871754356\nPassword 121323
+DTEND;TZID="China Standard Time":20201008T110000
+DTSTAMP:20200514T043508Z
+DTSTART;TZID="China Standard Time":20201008T100000
+LAST-MODIFIED:20200901T053540Z
+PRIORITY:8
+SEQUENCE:0
+SUMMARY: Hao Huang (Emory University), Covering cubes by hyperplanes
+LOCATION:SCMS Combinatorics Seminar
+TRANSP:OPAQUE
+UID:seminar100810
 END:VEVENT
 
 

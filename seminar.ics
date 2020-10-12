@@ -19,49 +19,33 @@ END:VTIMEZONE
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200526T053040Z
-DESCRIPTION:https://cesnet.zoom.us/j/95820171257\nPassword: 23571113
+DESCRIPTION:https://cesnet.zoom.us/j/99505939515\nPassword: 23571113
 DTEND;TZID="China Standard Time":20201005T230000
 DTSTAMP:20200527T053508Z
-DTSTART;TZID="China Standard Time":20201005T220000
+DTSTART;TZID="China Standard Time":20201012T220000
 LAST-MODIFIED:20200829T055240Z
 PRIORITY:8
 SEQUENCE:0
 LOCATION:Extremal and Probabilistic Combinatorics Webinar
-SUMMARY:Richard Montgomery (Birmingham), A solution to Erdős and Hajnal's odd cycle problem
+SUMMARY:Ferenc Bencs (Renyi Inst.), Atoms of the matching measure
 TRANSP:OPAQUE
-UID:seminar100522
+UID:seminar101222
 END:VEVENT
 
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200621T043040Z
-DESCRIPTION:https://theias.zoom.us/j/91888688395?pwd=TTlVY3Q0YlJjVnVDMGUrd1k4SUZUdz09\nPassword 575008
-DTEND;TZID="China Standard Time":20201006T001500
+DESCRIPTION:https://zoom.com.cn/j/65493874834\nPassword 121323
+DTEND;TZID="China Standard Time":20201015T110000
 DTSTAMP:20200514T043508Z
-DTSTART;TZID="China Standard Time":20201005T231500
-LAST-MODIFIED:20200826T053540Z
-PRIORITY:8
-SEQUENCE:0
-SUMMARY:Noga Alon (Princeton), Splitting necklaces: existence, hardness and approximation
-LOCATION:IAS CS/discrete math seminar
-TRANSP:OPAQUE
-UID:seminar100523
-END:VEVENT
-
-BEGIN:VEVENT
-CLASS:PUBLIC
-CREATED:20200621T043040Z
-DESCRIPTION:https://zoom.com.cn/j/64871754356\nPassword 121323
-DTEND;TZID="China Standard Time":20201008T110000
-DTSTAMP:20200514T043508Z
-DTSTART;TZID="China Standard Time":20201008T100000
+DTSTART;TZID="China Standard Time":20201015T100000
 LAST-MODIFIED:20200901T053540Z
 PRIORITY:8
 SEQUENCE:0
-SUMMARY: Hao Huang (Emory University), Covering cubes by hyperplanes
+SUMMARY: Dan Cranston (Virginia Commonwealth U), Vertex partitions into an independent set and a forest with each component small
 LOCATION:SCMS Combinatorics Seminar
 TRANSP:OPAQUE
-UID:seminar100810
+UID:seminar101510
 END:VEVENT
 
 

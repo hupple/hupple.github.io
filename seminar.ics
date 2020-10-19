@@ -19,67 +19,67 @@ END:VTIMEZONE
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200526T053040Z
-DESCRIPTION:https://cesnet.zoom.us/j/99505939515\nPassword: 23571113
-DTEND;TZID="China Standard Time":20201012T230000
+DESCRIPTION:https://cesnet.zoom.us/j/96891756752\nPassword: 23571113
+DTEND;TZID="China Standard Time":20201019T230000
 DTSTAMP:20200527T053508Z
-DTSTART;TZID="China Standard Time":20201012T220000
+DTSTART;TZID="China Standard Time":20201019T220000
 LAST-MODIFIED:20200829T055240Z
 PRIORITY:8
 SEQUENCE:0
 LOCATION:Extremal and Probabilistic Combinatorics Webinar
-SUMMARY:Ferenc Bencs (Renyi Inst.), Atoms of the matching measure
+SUMMARY:Lisa Sauermann (Stanford), On polynomials that vanish to high order on most of the hypercube
 TRANSP:OPAQUE
-UID:seminar101222
+UID:seminar101922
 END:VEVENT
 
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200621T043040Z
-DESCRIPTION:https://zoom.com.cn/j/65493874834\nPassword 121323
-DTEND;TZID="China Standard Time":20201015T110000
+DESCRIPTION:https://zoom.com.cn/j/66722757129\nPassword 121323
+DTEND;TZID="China Standard Time":20201022T110000
 DTSTAMP:20200514T043508Z
-DTSTART;TZID="China Standard Time":20201015T100000
+DTSTART;TZID="China Standard Time":20201022T100000
 LAST-MODIFIED:20200901T053540Z
 PRIORITY:8
 SEQUENCE:0
-SUMMARY: Dan Cranston (Virginia Commonwealth U), Vertex partitions into an independent set and a forest with each component small
+SUMMARY:Fan Wei (Princeton), Some variants of regularity lemma
 LOCATION:SCMS Combinatorics Seminar
 TRANSP:OPAQUE
-UID:seminar101510
+UID:seminar102210
 END:VEVENT
 
 
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200821T043040Z
-DESCRIPTION:https://zoom.us/j/93666069712?pwd=ZUFCWnJ2YnlvQzBmRlo4cGFwZWFpUT09 and the password is 602683
-DTEND;TZID="China Standard Time":20201013T100000
+DESCRIPTION:https://zoom.us/j/92600661093?pwd=a2hOaVNmUW5qWVB2dXhacGMxYS9OZz09 and the password is 602683
+DTEND;TZID="China Standard Time":20201020T100000
 DTSTAMP:20200914T043508Z
-DTSTART;TZID="China Standard Time":20201013T090000
+DTSTART;TZID="China Standard Time":20201020T090000
 LAST-MODIFIED:20201001T053540Z
 PRIORITY:8
 SEQUENCE:0
-SUMMARY: Asaf Nachmias (Tel Aviv), The local limit of uniform spanning trees
+SUMMARY:David Croydon (Kyoto), Scaling limits of the two- and three-dimensional uniform spanning trees
 LOCATION:Oxford discretemath/probability seminar
 TRANSP:OPAQUE
-UID:seminar101309
+UID:seminar102009
 END:VEVENT
 
 
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200821T043040Z
-DESCRIPTION:https://zoom.us/j/93666069712?pwd=ZUFCWnJ2YnlvQzBmRlo4cGFwZWFpUT09 and the password is 602683
-DTEND;TZID="China Standard Time":20201013T113000
+DESCRIPTION:https://zoom.us/j/92600661093?pwd=a2hOaVNmUW5qWVB2dXhacGMxYS9OZz09 and the password is 602683
+DTEND;TZID="China Standard Time":20201020T113000
 DTSTAMP:20200914T043508Z
-DTSTART;TZID="China Standard Time":20201013T103000
+DTSTART;TZID="China Standard Time":20201020T103000
 LAST-MODIFIED:20201001T053540Z
 PRIORITY:8
 SEQUENCE:0
-SUMMARY: Caroline Terry (Ohio State), Speeds of hereditary properties and mutual algebricity
+SUMMARY:Jinyoung Park (IAS), The threshold for the square of a Hamilton cycle
 LOCATION:Oxford discretemath/probability seminar
 TRANSP:OPAQUE
-UID:seminar101310
+UID:seminar102010
 END:VEVENT
 
 

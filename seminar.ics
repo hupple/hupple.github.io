@@ -19,67 +19,67 @@ END:VTIMEZONE
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200526T053040Z
-DESCRIPTION:https://cesnet.zoom.us/j/96891756752\nPassword: 23571113
-DTEND;TZID="China Standard Time":20201019T230000
+DESCRIPTION:https://cesnet.zoom.us/j/94263827473\nPassword: 23571113
+DTEND;TZID="China Standard Time":20201026T230000
 DTSTAMP:20200527T053508Z
-DTSTART;TZID="China Standard Time":20201019T220000
+DTSTART;TZID="China Standard Time":20201026T220000
 LAST-MODIFIED:20200829T055240Z
 PRIORITY:8
 SEQUENCE:0
 LOCATION:Extremal and Probabilistic Combinatorics Webinar
-SUMMARY:Lisa Sauermann (Stanford), On polynomials that vanish to high order on most of the hypercube
+SUMMARY:Hao Huang (Emory), On local Turán problems
 TRANSP:OPAQUE
-UID:seminar101922
+UID:seminar102622
 END:VEVENT
 
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200621T043040Z
-DESCRIPTION:https://zoom.com.cn/j/66722757129\nPassword 121323
-DTEND;TZID="China Standard Time":20201022T110000
+DESCRIPTION:https://zoom.com.cn/j/61305595836\nPassword 121323
+DTEND;TZID="China Standard Time":20201029T160000
 DTSTAMP:20200514T043508Z
-DTSTART;TZID="China Standard Time":20201022T100000
+DTSTART;TZID="China Standard Time":20201029T150000
 LAST-MODIFIED:20200901T053540Z
 PRIORITY:8
 SEQUENCE:0
-SUMMARY:Fan Wei (Princeton), Some variants of regularity lemma
+SUMMARY:Jiaao Li (Nankai U.), Flows and cycle covers of signed graphs
 LOCATION:SCMS Combinatorics Seminar
 TRANSP:OPAQUE
-UID:seminar102210
+UID:seminar102915
 END:VEVENT
 
 
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200821T043040Z
-DESCRIPTION:https://zoom.us/j/92600661093?pwd=a2hOaVNmUW5qWVB2dXhacGMxYS9OZz09 and the password is 602683
-DTEND;TZID="China Standard Time":20201020T100000
+DESCRIPTION:
+DTEND;TZID="China Standard Time":20201027T110000
 DTSTAMP:20200914T043508Z
-DTSTART;TZID="China Standard Time":20201020T090000
+DTSTART;TZID="China Standard Time":20201027T100000
 LAST-MODIFIED:20201001T053540Z
 PRIORITY:8
 SEQUENCE:0
-SUMMARY:David Croydon (Kyoto), Scaling limits of the two- and three-dimensional uniform spanning trees
+SUMMARY:Igor Kortchemski (Ecole polytechnique), The geometry of random minimal factorizations of a long cycle
 LOCATION:Oxford discretemath/probability seminar
 TRANSP:OPAQUE
-UID:seminar102009
+UID:seminar102710
 END:VEVENT
 
 
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20200821T043040Z
-DESCRIPTION:https://zoom.us/j/92600661093?pwd=a2hOaVNmUW5qWVB2dXhacGMxYS9OZz09 and the password is 602683
-DTEND;TZID="China Standard Time":20201020T113000
+DESCRIPTION:
+DTEND;TZID="China Standard Time":20201028T003000
 DTSTAMP:20200914T043508Z
-DTSTART;TZID="China Standard Time":20201020T103000
+DTSTART;TZID="China Standard Time":20201027T113000
 LAST-MODIFIED:20201001T053540Z
 PRIORITY:8
 SEQUENCE:0
-SUMMARY:Jinyoung Park (IAS), The threshold for the square of a Hamilton cycle
+SUMMARY:Luke Postle (Waterloo), Further progress towards Hadwiger's conjecture
 LOCATION:Oxford discretemath/probability seminar
 TRANSP:OPAQUE
-UID:seminar102010
+UID:seminar102711
 END:VEVENT
 
 
